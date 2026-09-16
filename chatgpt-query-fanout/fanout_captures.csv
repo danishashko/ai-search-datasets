@@ -1,0 +1,122 @@
+capture_id,user_prompt,user_prompt_words,fanout_query_count,distinct_entities_injected,entities_injected,source_file
+1,top CRM options for a small B2B sales team,9,1,5,Freshsales|HubSpot|Pipedrive|Salesforce|Zoho,chatgpt_20260816_015711.jsonl
+2,best noise cancelling headphones for open plan offices,8,1,4,Bose|QuietComfort|Sony|WH-1000XM6,chatgpt_20260816_015711.jsonl
+3,best project management software for a 10 person agency,9,5,5,Asana|Basecamp|ClickUp|Teamwork|monday.com,chatgpt_20260816_015711.jsonl
+4,best electric SUV for long road trips,7,1,5,EV9|Gravity|Ioniq|Lucid|R1S,chatgpt_20260816_015711.jsonl
+5,is Notion worth it compared to Confluence,7,2,0,,chatgpt_20260816_015711.jsonl
+6,what do reviewers say about the Dyson V15 vacuum,9,2,2,RTINGS|Wirecutter,chatgpt_20260816_015711.jsonl
+7,best running shoes for flat feet,6,1,0,,chatgpt_20260816_015711.jsonl
+8,is Webflow a good choice for a marketing site,9,2,0,,chatgpt_20260816_015711.jsonl
+9,how to set up a custom domain on Cloudflare,9,2,0,,chatgpt_20260816_015711.jsonl
+10,what do people think of the Anker 737 power bank,10,1,0,,chatgpt_20260816_015711.jsonl
+11,how to descale a espresso machine properly,7,1,0,,chatgpt_20260816_015711.jsonl
+12,top password managers for families,5,4,6,1Password|1password.com|Bitwarden|Dashlane|bitwarden.com|dashlane.com,chatgpt_20260816_015711.jsonl
+13,how to build a raised garden bed,7,2,0,,chatgpt_20260816_015711.jsonl
+14,how to migrate a WordPress site to a new host,10,2,0,,chatgpt_20260816_015711.jsonl
+15,how to reduce cold start time in AWS Lambda,9,2,0,,chatgpt_20260816_015711.jsonl
+16,how to change a flat bicycle tire,7,1,1,REI,chatgpt_20260816_015711.jsonl
+17,what is the difference between an ETF and a mutual fund,11,1,1,SEC,chatgpt_20260816_015711.jsonl
+18,is Framer better than WordPress for a startup landing page,10,2,0,,chatgpt_20260816_015711.jsonl
+19,what is retrieval augmented generation,5,1,0,,chatgpt_20260816_015711.jsonl
+20,what is a mirrorless camera,5,1,0,,chatgpt_20260816_015711.jsonl
+21,what does APR mean on a car loan,8,1,0,,chatgpt_20260816_015711.jsonl
+22,what does a fractional CFO actually do,7,1,0,,chatgpt_20260816_015711.jsonl
+23,how to remove a stripped screw,6,1,0,,chatgpt_20260816_015711.jsonl
+24,latest electric vehicle tax credit rules in the US,9,2,0,,chatgpt_20260816_015711.jsonl
+25,what changed in Google Search in 2026,7,1,0,,chatgpt_20260816_015711.jsonl
+26,what is new in Python 3.14,6,2,0,,chatgpt_20260816_015711.jsonl
+27,current state of the US housing market,7,2,0,,chatgpt_20260816_015711.jsonl
+28,what is a heat pump and how does it work,10,1,0,,chatgpt_20260816_015711.jsonl
+29,typical price for a small business accountant,7,2,0,,chatgpt_20260816_015711.jsonl
+30,recent changes to remote work policies at large tech companies,10,4,5,Meta|Microsoft|Salesforce|aboutamazon.com|blog.google,chatgpt_20260816_015711.jsonl
+31,what is generative engine optimization,5,2,0,,chatgpt_20260816_015711.jsonl
+32,average cost of a wedding photographer in the US,9,2,0,,chatgpt_20260816_015711.jsonl
+33,average monthly cost of a coworking desk in Berlin,9,2,0,,chatgpt_20260816_015711.jsonl
+34,how much does it cost to ship a car across the US,12,2,0,,chatgpt_20260816_015711.jsonl
+35,what percentage of ecommerce sales happen on mobile,8,2,0,,chatgpt_20260816_015711.jsonl
+36,how much electricity does a data center use,8,2,1,IEA,chatgpt_20260816_015711.jsonl
+37,typical cost of dog boarding per night,7,1,0,,chatgpt_20260816_015711.jsonl
+38,average lifespan of a residential roof,6,1,0,,chatgpt_20260816_015711.jsonl
+39,how many small businesses fail in the first five years,10,2,1,SBA,chatgpt_20260816_015711.jsonl
+40,what share of web traffic is mobile in 2026,9,1,0,,chatgpt_20260816_015711.jsonl
+41,average time to hire for software engineers,7,2,0,,chatgpt_20260816_015711.jsonl
+42,give me ten name ideas for a dog walking business,10,1,0,,chatgpt_20260816_015711.jsonl
+43,average conversion rate for B2B SaaS websites,7,2,0,,chatgpt_20260816_015711.jsonl
+44,explain recursion to me like I am twelve,8,1,0,,chatgpt_20260816_015711.jsonl
+45,summarize the plot structure of a three act story,9,1,0,,chatgpt_20260816_015711.jsonl
+46,recent updates to EU AI regulation,6,3,1,artificialintelligenceact.eu,chatgpt_20260816_015711.jsonl
+47,write a python function that flattens a nested list,9,1,0,,chatgpt_20260816_015711.jsonl
+48,rewrite this sentence to be more concise: we are currently in the process of evaluating,15,1,0,,chatgpt_20260816_015711.jsonl
+49,best noise cancelling headphones for open plan offices,8,1,4,Bose|QuietComfort|Sony|WH-1000XM6,probe_plain_20260816_100704.jsonl
+50,latest electric vehicle tax credit rules in the US,9,2,0,,probe_plain_20260816_100704.jsonl
+51,is Notion worth it compared to Confluence,7,2,3,Atlassian|atlassian.com|notion.com,probe_plain_20260816_100704.jsonl
+52,what changed in Google Search in 2026,7,3,0,,probe_plain_20260816_100704.jsonl
+53,how many people work remotely in the US,8,2,0,,probe_plain_20260816_100704.jsonl
+54,how much does a plumber charge to replace a water heater,11,1,0,,probe_plain_20260816_100704.jsonl
+55,explain recursion to me like I am twelve,8,1,0,,probe_plain_20260816_100704.jsonl
+56,what do reviewers say about the Dyson V15 vacuum,9,1,0,,rep1_20260816_104034.jsonl
+57,is Notion worth it compared to Confluence,7,3,1,Atlassian,rep1_20260816_104034.jsonl
+58,best noise cancelling headphones for open plan offices,8,1,4,Bose|QuietComfort|Sony|WH-1000XM6,rep1_20260816_104034.jsonl
+59,how reliable is the Toyota RAV4 hybrid,7,2,2,Consumer Reports|NHTSA,rep1_20260816_104034.jsonl
+60,how to set up a custom domain on Cloudflare,9,2,0,,rep1_20260816_104034.jsonl
+61,is Webflow a good choice for a marketing site,9,2,0,,rep1_20260816_104034.jsonl
+62,best electric SUV for long road trips,7,1,5,EV9|Gravity|Ioniq|Lucid|R1S,rep1_20260816_104034.jsonl
+63,how to descale a espresso machine properly,7,1,2,Breville|DeLonghi,rep1_20260816_104034.jsonl
+64,top CRM options for a small B2B sales team,9,4,8,Freshsales|HubSpot|Pipedrive|Salesforce|Zoho|hubspot.com|pipedrive.com|zoho.com,rep1_20260816_104034.jsonl
+65,what is the difference between an ETF and a mutual fund,11,1,2,SEC|investor.gov,rep1_20260816_104034.jsonl
+66,what is generative engine optimization,5,2,0,,rep1_20260816_104034.jsonl
+67,what are the newest features in Figma,7,2,0,,rep1_20260816_104034.jsonl
+68,how much does it cost to resurface a driveway,9,2,0,,rep1_20260816_104034.jsonl
+69,average cost of a wedding photographer in the US,9,2,1,The Knot,rep1_20260816_104034.jsonl
+70,what changed in Google Search in 2026,7,3,2,blog.google|developers.google.com,rep1_20260816_104034.jsonl
+71,typical price for a small business accountant,7,2,0,,rep1_20260816_104034.jsonl
+72,what percentage of ecommerce sales happen on mobile,8,2,0,,rep1_20260816_104034.jsonl
+73,average conversion rate for B2B SaaS websites,7,2,0,,rep1_20260816_104034.jsonl
+74,how many people work remotely in the US,8,2,1,WFH Research,rep1_20260816_104034.jsonl
+75,how much electricity does a data center use,8,2,1,IEA,rep1_20260816_104034.jsonl
+76,best electric SUV for long road trips,7,1,4,EV9|Ioniq|R1S|Tesla,rep2_20260816_105134.jsonl
+77,is Notion worth it compared to Confluence,7,3,3,Atlassian|atlassian.com|notion.com,rep2_20260816_105134.jsonl
+78,how to set up a custom domain on Cloudflare,9,1,0,,rep2_20260816_105134.jsonl
+79,best noise cancelling headphones for open plan offices,8,1,0,,rep2_20260816_105134.jsonl
+80,is Webflow a good choice for a marketing site,9,2,0,,rep2_20260816_105134.jsonl
+81,top CRM options for a small B2B sales team,9,4,4,Close|HubSpot|Pipedrive|Salesforce,rep2_20260816_105134.jsonl
+82,how to descale a espresso machine properly,7,1,2,Breville|DeLonghi,rep2_20260816_105134.jsonl
+83,how to build a raised garden bed,7,1,0,,rep2_20260816_105134.jsonl
+84,what is generative engine optimization,5,1,0,,rep2_20260816_105134.jsonl
+85,how to change a flat bicycle tire,7,1,1,REI,rep2_20260816_105134.jsonl
+86,what does a fractional CFO actually do,7,1,0,,rep2_20260816_105134.jsonl
+87,what is the difference between an ETF and a mutual fund,11,1,0,,rep2_20260816_105134.jsonl
+88,best project management software for a 10 person agency,9,1,0,,rep2_20260816_105134.jsonl
+89,what changed in Google Search in 2026,7,2,0,,rep2_20260816_105134.jsonl
+90,latest electric vehicle tax credit rules in the US,9,2,0,,rep2_20260816_105134.jsonl
+91,what do reviewers say about the Dyson V15 vacuum,9,1,0,,rep2_20260816_105134.jsonl
+92,what are the newest features in Figma,7,1,0,,rep2_20260816_105134.jsonl
+93,average cost of a wedding photographer in the US,9,1,0,,rep2_20260816_105134.jsonl
+94,recent changes to remote work policies at large tech companies,10,2,2,Meta|Microsoft,rep2_20260816_105134.jsonl
+95,how many people work remotely in the US,8,2,0,,rep2_20260816_105134.jsonl
+96,average conversion rate for B2B SaaS websites,7,2,0,,rep2_20260816_105134.jsonl
+97,what percentage of ecommerce sales happen on mobile,8,2,0,,rep2_20260816_105134.jsonl
+98,how much electricity does a data center use,8,2,1,IEA,rep2_20260816_105134.jsonl
+99,typical price for a small business accountant,7,2,0,,rep2_20260816_105134.jsonl
+100,is Notion worth it compared to Confluence,7,3,1,Atlassian,rep3_20260816_110533.jsonl
+101,how reliable is the Toyota RAV4 hybrid,7,3,3,Consumer Reports|NHTSA|RepairPal,rep3_20260816_110533.jsonl
+102,what do reviewers say about the Dyson V15 vacuum,9,2,4,RTINGS|TechRadar|Tom's Guide|Wirecutter,rep3_20260816_110533.jsonl
+103,best project management software for a 10 person agency,9,5,4,Asana|ClickUp|Teamwork|monday.com,rep3_20260816_110533.jsonl
+104,how to descale a espresso machine properly,7,1,2,Breville|DeLonghi,rep3_20260816_110533.jsonl
+105,top CRM options for a small B2B sales team,9,4,8,Freshsales|HubSpot|Pipedrive|Salesforce|Zoho|hubspot.com|pipedrive.com|zoho.com,rep3_20260816_110533.jsonl
+106,is Webflow a good choice for a marketing site,9,2,0,,rep3_20260816_110533.jsonl
+107,how to build a raised garden bed,7,1,0,,rep3_20260816_110533.jsonl
+108,what is the difference between an ETF and a mutual fund,11,1,1,SEC,rep3_20260816_110533.jsonl
+109,what is generative engine optimization,5,2,0,,rep3_20260816_110533.jsonl
+110,what changed in Google Search in 2026,7,3,2,blog.google|developers.google.com,rep3_20260816_110533.jsonl
+111,best noise cancelling headphones for open plan offices,8,1,4,Bose|QuietComfort|Sony|WH-1000XM6,rep3_20260816_110533.jsonl
+112,typical price for a small business accountant,7,2,0,,rep3_20260816_110533.jsonl
+113,what are the newest features in Figma,7,2,0,,rep3_20260816_110533.jsonl
+114,what does a fractional CFO actually do,7,1,0,,rep3_20260816_110533.jsonl
+115,how much does it cost to resurface a driveway,9,1,0,,rep3_20260816_110533.jsonl
+116,average cost of a wedding photographer in the US,9,2,0,,rep3_20260816_110533.jsonl
+117,what percentage of ecommerce sales happen on mobile,8,2,0,,rep3_20260816_110533.jsonl
+118,how much electricity does a data center use,8,2,1,IEA,rep3_20260816_110533.jsonl
+119,recent changes to remote work policies at large tech companies,10,6,6,Meta|Microsoft|about.fb.com|aboutamazon.com|blog.google|blogs.microsoft.com,rep3_20260816_110533.jsonl
+120,average conversion rate for B2B SaaS websites,7,1,0,,rep3_20260816_110533.jsonl
+121,how many people work remotely in the US,8,2,0,,rep3_20260816_110533.jsonl

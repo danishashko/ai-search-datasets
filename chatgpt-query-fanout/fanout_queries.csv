@@ -1,0 +1,220 @@
+capture_id,user_prompt,fanout_query,word_count,char_count,has_year_token,has_site_operator,has_official,has_quoted_phrase,entities_not_in_prompt,entity_count,keyword_planner_status,google_ads_search_volume
+1,top CRM options for a small B2B sales team,top CRM software small B2B sales teams Salesforce HubSpot Pipedrive Zoho Freshsales 2026,13,88,1,0,0,0,Freshsales|HubSpot|Pipedrive|Salesforce|Zoho,5,rejected_over_length_cap,
+2,best noise cancelling headphones for open plan offices,best noise cancelling headphones open office 2026 Sony WH-1000XM6 Bose QuietComfort Ultra office noise cancellation,15,115,1,0,0,0,Bose|QuietComfort|Sony|WH-1000XM6,4,rejected_over_length_cap,
+3,best project management software for a 10 person agency,best project management software small agency 10 people Asana ClickUp Monday Teamwork Basecamp 2026,14,99,1,0,0,0,Asana|Basecamp|ClickUp|Teamwork,4,rejected_over_length_cap,
+3,best project management software for a 10 person agency,Asana pricing teams features official,5,37,0,0,1,0,Asana,1,no_volume_record,0
+3,best project management software for a 10 person agency,ClickUp pricing features official,4,33,0,0,1,0,ClickUp,1,no_volume_record,0
+3,best project management software for a 10 person agency,Teamwork pricing agency project management official,6,51,0,0,1,0,Teamwork,1,no_volume_record,0
+3,best project management software for a 10 person agency,monday.com pricing work management official,5,43,0,0,1,0,monday.com,1,no_volume_record,0
+4,best electric SUV for long road trips,best electric SUV road trips 2026 range charging Lucid Gravity Ioniq 9 EV9 R1S,14,78,1,0,0,0,EV9|Gravity|Ioniq|Lucid|R1S,5,rejected_over_length_cap,
+5,is Notion worth it compared to Confluence,Notion vs Confluence official pricing features 2026,7,51,1,0,1,0,,0,no_volume_record,0
+5,is Notion worth it compared to Confluence,Confluence official pricing features 2026,5,41,1,0,1,0,,0,no_volume_record,0
+6,what do reviewers say about the Dyson V15 vacuum,Dyson V15 Detect review 2026 reviewers,6,38,1,0,0,0,,0,no_volume_record,0
+6,what do reviewers say about the Dyson V15 vacuum,Dyson V15 Detect reviews reviewers RTINGS Wirecutter Vacuum Wars 2026,10,69,1,0,0,0,RTINGS|Wirecutter,2,no_volume_record,0
+7,best running shoes for flat feet,best running shoes flat feet stability shoes 2026,8,49,1,0,0,0,,0,no_volume_record,0
+8,is Webflow a good choice for a marketing site,Webflow marketing website features CMS SEO localization 2026,8,60,1,0,0,0,,0,no_volume_record,0
+8,is Webflow a good choice for a marketing site,Webflow pricing 2026 CMS business plans,6,39,1,0,0,0,,0,no_volume_record,0
+9,how to set up a custom domain on Cloudflare,Cloudflare add custom domain setup DNS nameservers official docs,9,64,0,0,1,0,,0,no_volume_record,0
+9,how to set up a custom domain on Cloudflare,Cloudflare custom domains SaaS setup official docs,7,50,0,0,1,0,,0,no_volume_record,0
+10,what do people think of the Anker 737 power bank,Anker 737 Power Bank reviews Reddit 2026,7,40,1,0,0,0,,0,no_volume_record,0
+11,how to descale a espresso machine properly,how to descale an espresso machine properly manufacturer instructions,9,69,0,0,0,0,,0,no_volume_record,0
+12,top password managers for families,best password managers families 1Password Bitwarden Dashlane family plans 2026,10,78,1,0,0,0,1Password|Bitwarden|Dashlane,3,no_volume_record,0
+12,top password managers for families,site:1password.com families password manager family sharing,6,59,0,1,0,0,1Password|1password.com,2,no_volume_record,0
+12,top password managers for families,site:bitwarden.com families password manager organizations family,6,65,0,1,0,0,Bitwarden|bitwarden.com,2,no_volume_record,0
+12,top password managers for families,site:dashlane.com family password manager plan,5,46,0,1,0,0,Dashlane|dashlane.com,2,no_volume_record,0
+13,how to build a raised garden bed,raised garden bed build extension service untreated lumber soil depth,10,69,0,0,0,0,,0,no_volume_record,0
+13,how to build a raised garden bed,raised bed gardening soil extension service 8 12 inches,9,55,0,0,0,0,,0,no_volume_record,0
+14,how to migrate a WordPress site to a new host,WordPress official migration new host backup files database search replace URLs,11,79,0,0,1,0,,0,rejected_over_length_cap,
+14,how to migrate a WordPress site to a new host,WordPress official changing site URL wp-config database migration,8,65,0,0,1,0,,0,no_volume_record,0
+15,how to reduce cold start time in AWS Lambda,AWS Lambda reduce cold start time best practices Provisioned Concurrency SnapStart initialization 2026,13,102,1,0,0,0,,0,rejected_over_length_cap,
+15,how to reduce cold start time in AWS Lambda,AWS Lambda performance optimization cold starts memory runtime package size initialization,11,90,0,0,0,0,,0,rejected_over_length_cap,
+16,how to change a flat bicycle tire,how to change a bicycle flat tire REI,8,37,0,0,0,0,REI,1,no_volume_record,0
+17,what is the difference between an ETF and a mutual fund,SEC investor bulletin ETFs mutual funds differences,7,51,0,0,0,0,SEC,1,no_volume_record,0
+18,is Framer better than WordPress for a startup landing page,Framer official features CMS localization SEO forms analytics startup website,10,77,0,0,1,0,,0,no_volume_record,0
+18,is Framer better than WordPress for a startup landing page,WordPress official features block editor plugins SEO hosting startup website,10,76,0,0,1,0,,0,no_volume_record,0
+19,what is retrieval augmented generation,retrieval augmented generation RAG definition,5,45,0,0,0,0,,0,no_volume_record,0
+20,what is a mirrorless camera,mirrorless camera definition how it works,6,41,0,0,0,0,,0,no_volume_record,0
+21,what does APR mean on a car loan,APR car loan annual percentage rate explanation CFPB,8,52,0,0,0,0,,0,no_volume_record,0
+22,what does a fractional CFO actually do,fractional CFO what does a fractional CFO do responsibilities,9,61,0,0,0,0,,0,no_volume_record,0
+23,how to remove a stripped screw,how to remove a stripped screw,6,30,0,0,0,0,,0,has_volume,33100
+24,latest electric vehicle tax credit rules in the US,2026 US electric vehicle tax credit rules July 2026 IRS clean vehicle credit 2026,14,81,1,0,0,0,,0,rejected_over_length_cap,
+24,latest electric vehicle tax credit rules in the US,2026 clean vehicle tax credit ended September 30 2025 OBBBA electric vehicle credit IRS,14,87,1,0,0,0,,0,rejected_over_length_cap,
+25,what changed in Google Search in 2026,Google Search changes 2026 AI Mode Web Guide 2026,9,49,1,0,0,0,,0,no_volume_record,0
+26,what is new in Python 3.14,Python 3.14 new features official what's new,7,44,0,0,1,0,,0,no_volume_record,0
+26,what is new in Python 3.14,Python 3.14 release notes what's new 3.14,7,41,0,0,0,0,,0,no_volume_record,0
+27,current state of the US housing market,US housing market August 2026 latest trends mortgage rates home sales,11,69,1,0,0,0,,0,rejected_over_length_cap,
+27,current state of the US housing market,US housing market conditions August 2026 home prices mortgage rates inventory,11,77,1,0,0,0,,0,rejected_over_length_cap,
+28,what is a heat pump and how does it work,how does a heat pump work Department of Energy heat pumps,11,57,0,0,0,0,,0,rejected_over_length_cap,
+29,typical price for a small business accountant,small business accountant typical cost monthly bookkeeping tax preparation 2026,10,79,1,0,0,0,,0,no_volume_record,0
+29,typical price for a small business accountant,small business accountant hourly rates monthly fees CPA bookkeeping 2026,10,72,1,0,0,0,,0,no_volume_record,0
+30,recent changes to remote work policies at large tech companies,large tech companies return to office remote work policy changes 2026 Amazon Google Meta Microsoft Salesforce,16,109,1,0,0,0,Meta|Microsoft|Salesforce,3,rejected_over_length_cap,
+30,recent changes to remote work policies at large tech companies,2026 tech companies remote work policy return office Apple Amazon Google Meta Microsoft,13,87,1,0,0,0,Meta|Microsoft,2,rejected_over_length_cap,
+30,recent changes to remote work policies at large tech companies,site:aboutamazon.com return to office five days January 2025 Amazon employees,10,77,1,1,0,0,aboutamazon.com,1,no_volume_record,0
+30,recent changes to remote work policies at large tech companies,site:blog.google hybrid work three days office 2025 Google remote work,10,70,1,1,0,0,blog.google,1,no_volume_record,0
+31,what is generative engine optimization,generative engine optimization GEO definition AI search engines,8,63,0,0,0,0,,0,no_volume_record,0
+31,what is generative engine optimization,generative engine optimization GEO Princeton study,6,50,0,0,0,0,,0,no_volume_record,0
+32,average cost of a wedding photographer in the US,average wedding photographer cost United States 2026,7,52,1,0,0,0,,0,no_volume_record,0
+32,average cost of a wedding photographer in the US,average cost wedding photographer United States 2026,7,52,1,0,0,0,,0,no_volume_record,0
+33,average monthly cost of a coworking desk in Berlin,Berlin coworking desk monthly price 2026 average hot desk dedicated desk,11,72,1,0,0,0,,0,rejected_over_length_cap,
+33,average monthly cost of a coworking desk in Berlin,Berlin coworking monthly hot desk price dedicated desk 2026,9,59,1,0,0,0,,0,no_volume_record,0
+34,how much does it cost to ship a car across the US,car shipping cost across US 2026 average,7,40,1,0,0,0,,0,no_volume_record,0
+34,how much does it cost to ship a car across the US,average cost ship car across US 2026 open transport enclosed per mile,12,69,1,0,0,0,,0,rejected_over_length_cap,
+35,what percentage of ecommerce sales happen on mobile,US ecommerce sales mobile share 2025 percentage mobile commerce sales,10,69,1,0,0,0,,0,no_volume_record,0
+35,what percentage of ecommerce sales happen on mobile,global ecommerce sales mobile share 2025 percentage,7,51,1,0,0,0,,0,no_volume_record,0
+36,how much electricity does a data center use,data center electricity consumption MW typical hyperscale data center IEA 2024,11,78,1,0,0,0,IEA,1,rejected_over_length_cap,
+36,how much electricity does a data center use,Lawrence Berkeley data center electricity consumption 2024 MW average data center,11,81,1,0,0,0,,0,rejected_over_length_cap,
+37,typical cost of dog boarding per night,average dog boarding cost per night United States 2026,9,54,1,0,0,0,,0,no_volume_record,0
+38,average lifespan of a residential roof,residential roof lifespan asphalt shingles metal tile manufacturer lifespan,9,75,0,0,0,0,,0,no_volume_record,0
+39,how many small businesses fail in the first five years,U.S. Bureau Labor Statistics business survival first five years 2013 2018 establishments 5 years survival rate,16,110,1,0,0,0,,0,rejected_over_length_cap,
+39,how many small businesses fail in the first five years,SBA small business survival first five years 50 percent,9,55,0,0,0,0,SBA,1,no_volume_record,0
+40,what share of web traffic is mobile in 2026,share of web traffic mobile 2026 global percentage,8,50,1,0,0,0,,0,no_volume_record,0
+41,average time to hire for software engineers,average time to hire software engineers 2025 hiring process time to fill,12,72,1,0,0,0,,0,rejected_over_length_cap,
+41,average time to hire for software engineers,software engineer time to hire benchmark 2025,7,45,1,0,0,0,,0,no_volume_record,0
+42,give me ten name ideas for a dog walking business,dog walking business name ideas branding,6,40,0,0,0,0,,0,no_volume_record,0
+43,average conversion rate for B2B SaaS websites,B2B SaaS website conversion rate benchmark visitor to lead demo 2025,11,68,1,0,0,0,,0,rejected_over_length_cap,
+43,average conversion rate for B2B SaaS websites,B2B SaaS conversion rate benchmark website demo request visitor to lead,11,71,0,0,0,0,,0,rejected_over_length_cap,
+44,explain recursion to me like I am twelve,recursion programming definition simple,4,39,0,0,0,0,,0,no_volume_record,0
+45,summarize the plot structure of a three act story,three act structure plot act one act two act three story structure,12,66,0,0,0,0,,0,rejected_over_length_cap,
+46,recent updates to EU AI regulation,EU AI Act recent updates August 2026 implementation timeline GPAI codes practice 2026,13,85,1,0,0,0,,0,rejected_over_length_cap,
+46,recent updates to EU AI regulation,site:digital-strategy.ec.europa.eu AI Act August 2026 obligations high-risk GPAI 2026,9,85,1,1,0,0,,0,rejected_over_length_cap,
+46,recent updates to EU AI regulation,site:artificialintelligenceact.eu August 2026 AI Act implementation timeline,7,76,1,1,0,0,artificialintelligenceact.eu,1,no_volume_record,0
+47,write a python function that flattens a nested list,python flatten nested list example,5,34,0,0,0,0,,0,no_volume_record,0
+48,rewrite this sentence to be more concise: we are currently in the process of evaluating,"concise writing style ""currently in the process of evaluating""",9,62,0,0,0,1,,0,no_volume_record,0
+49,best noise cancelling headphones for open plan offices,best noise cancelling headphones open office 2026 Sony WH-1000XM6 Bose QuietComfort Ultra reviews,13,97,1,0,0,0,Bose|QuietComfort|Sony|WH-1000XM6,4,rejected_over_length_cap,
+50,latest electric vehicle tax credit rules in the US,latest US electric vehicle tax credit rules 2026 clean vehicle credit changes,12,77,1,0,0,0,,0,rejected_over_length_cap,
+50,latest electric vehicle tax credit rules in the US,latest US electric vehicle tax credit rules 2026 clean vehicle credit expiration,12,80,1,0,0,0,,0,rejected_over_length_cap,
+51,is Notion worth it compared to Confluence,Notion Confluence comparison pricing features 2026 official,7,59,1,0,1,0,,0,no_volume_record,0
+51,is Notion worth it compared to Confluence,site:notion.com pricing Notion site:atlassian.com/software/confluence pricing Confluence,6,88,0,1,0,0,Atlassian|atlassian.com|notion.com,3,rejected_over_length_cap,
+52,what changed in Google Search in 2026,Google Search changes 2026 AI Overviews AI Mode search updates 2026,11,67,1,0,0,0,,0,rejected_over_length_cap,
+52,what changed in Google Search in 2026,Google Search 2026 update AI Mode Search Live web search changes,11,64,1,0,0,0,,0,rejected_over_length_cap,
+52,what changed in Google Search in 2026,Google Search 2026 AI Mode AI Overviews March 2026 updates,10,58,1,0,0,0,,0,no_volume_record,0
+53,how many people work remotely in the US,US remote work percentage workers 2025 2026 Bureau Labor Statistics working from home,13,85,1,0,0,0,,0,rejected_over_length_cap,
+53,how many people work remotely in the US,US workers working remotely 2025 survey percentage remote hybrid,9,64,1,0,0,0,,0,no_volume_record,0
+54,how much does a plumber charge to replace a water heater,Las Vegas water heater replacement cost plumber 2026,8,52,1,0,0,0,,0,no_volume_record,0
+55,explain recursion to me like I am twelve,recursion programming definition,3,32,0,0,0,0,,0,no_volume_record,0
+56,what do reviewers say about the Dyson V15 vacuum,Dyson V15 Detect reviews reviewers pros cons suction battery hair dust laser,12,76,0,0,0,0,,0,rejected_over_length_cap,
+57,is Notion worth it compared to Confluence,Notion vs Confluence pricing features 2026 official Notion Confluence,9,69,1,0,1,0,,0,no_volume_record,0
+57,is Notion worth it compared to Confluence,Notion pricing official 2026,4,28,1,0,1,0,,0,no_volume_record,0
+57,is Notion worth it compared to Confluence,Atlassian Confluence pricing official 2026,5,42,1,0,1,0,Atlassian,1,no_volume_record,0
+58,best noise cancelling headphones for open plan offices,best noise cancelling headphones open office Sony WH-1000XM6 Bose QuietComfort Ultra 2026,12,89,1,0,0,0,Bose|QuietComfort|Sony|WH-1000XM6,4,rejected_over_length_cap,
+59,how reliable is the Toyota RAV4 hybrid,Toyota RAV4 Hybrid reliability Consumer Reports 2025 2026 reliability,9,69,1,0,0,0,Consumer Reports,1,no_volume_record,0
+59,how reliable is the Toyota RAV4 hybrid,Toyota RAV4 Hybrid common problems battery warranty recall NHTSA 2025 2026,11,74,1,0,0,0,NHTSA,1,rejected_over_length_cap,
+60,how to set up a custom domain on Cloudflare,Cloudflare custom domain setup add site nameservers DNS official documentation,10,78,0,0,1,0,,0,no_volume_record,0
+60,how to set up a custom domain on Cloudflare,Cloudflare Registrar custom domain DNS nameservers add website official docs,10,76,0,0,1,0,,0,no_volume_record,0
+61,is Webflow a good choice for a marketing site,Webflow marketing website CMS SEO features 2026,7,47,1,0,0,0,,0,no_volume_record,0
+61,is Webflow a good choice for a marketing site,Webflow pricing CMS localization forms analytics 2026,7,53,1,0,0,0,,0,no_volume_record,0
+62,best electric SUV for long road trips,best electric SUV long road trips 2026 Lucid Gravity EV9 Ioniq 9 Rivian R1S range charging,16,90,1,0,0,0,EV9|Gravity|Ioniq|Lucid|R1S,5,rejected_over_length_cap,
+63,how to descale a espresso machine properly,espresso machine descaling manufacturer instructions Breville DeLonghi descale,8,78,0,0,0,0,Breville|DeLonghi,2,no_volume_record,0
+64,top CRM options for a small B2B sales team,best CRM small business B2B sales Salesforce HubSpot Pipedrive Zoho Freshsales pricing features 2026,14,100,1,0,0,0,Freshsales|HubSpot|Pipedrive|Salesforce|Zoho,5,rejected_over_length_cap,
+64,top CRM options for a small B2B sales team,site:hubspot.com sales hub pricing CRM small business,7,53,0,1,0,0,HubSpot|hubspot.com,2,no_volume_record,0
+64,top CRM options for a small B2B sales team,site:pipedrive.com pricing CRM sales,4,36,0,1,0,0,Pipedrive|pipedrive.com,2,no_volume_record,0
+64,top CRM options for a small B2B sales team,site:zoho.com crm pricing,3,25,0,1,0,0,Zoho|zoho.com,2,has_volume,2400
+65,what is the difference between an ETF and a mutual fund,ETF vs mutual fund investor.gov SEC differences,7,47,0,0,0,0,SEC|investor.gov,2,no_volume_record,0
+66,what is generative engine optimization,"""generative engine optimization"" GEO definition AI search",7,57,0,0,0,1,,0,no_volume_record,0
+66,what is generative engine optimization,"""Generative Engine Optimization"" Princeton researchers GEO",6,58,0,0,0,1,,0,no_volume_record,0
+67,what are the newest features in Figma,Figma newest features 2026 Config 2026 Figma updates,8,52,1,0,0,0,,0,no_volume_record,0
+67,what are the newest features in Figma,Figma latest features 2026 Sites Make Buzz Slides AI updates,10,60,1,0,0,0,,0,no_volume_record,0
+68,how much does it cost to resurface a driveway,driveway resurfacing cost per square foot asphalt concrete 2026,9,63,1,0,0,0,,0,no_volume_record,0
+68,how much does it cost to resurface a driveway,New Jersey driveway resurfacing cost asphalt 2026,7,49,1,0,0,0,,0,no_volume_record,0
+69,average cost of a wedding photographer in the US,average wedding photographer cost US 2026,6,41,1,0,0,0,,0,no_volume_record,0
+69,average cost of a wedding photographer in the US,wedding photographer average cost United States The Knot 2025,9,61,1,0,0,0,The Knot,1,no_volume_record,0
+70,what changed in Google Search in 2026,Google Search changes 2026 AI Mode Search Live 2026,9,51,1,0,0,0,,0,no_volume_record,0
+70,what changed in Google Search in 2026,site:blog.google/products/search/ 2026 Google Search AI Mode March 2026,8,71,1,1,0,0,blog.google,1,no_volume_record,0
+70,what changed in Google Search in 2026,site:developers.google.com/search 2026 Google Search changes AI overviews,7,73,1,1,0,0,developers.google.com,1,no_volume_record,0
+71,typical price for a small business accountant,small business accountant typical cost monthly bookkeeping tax preparation 2026,10,79,1,0,0,0,,0,no_volume_record,0
+71,typical price for a small business accountant,small business accountant cost monthly bookkeeping tax preparation average 2026,10,79,1,0,0,0,,0,no_volume_record,0
+72,what percentage of ecommerce sales happen on mobile,US ecommerce sales mobile share 2025 percentage mobile commerce sales share,11,75,1,0,0,0,,0,rejected_over_length_cap,
+72,what percentage of ecommerce sales happen on mobile,mobile share ecommerce sales 2025 US Adobe Analytics mobile shopping sales,11,74,1,0,0,0,,0,rejected_over_length_cap,
+73,average conversion rate for B2B SaaS websites,B2B SaaS website conversion rate benchmark visitor to lead demo conversion 2025,12,79,1,0,0,0,,0,rejected_over_length_cap,
+73,average conversion rate for B2B SaaS websites,B2B SaaS landing page conversion rate benchmark 2025,8,52,1,0,0,0,,0,no_volume_record,0
+74,how many people work remotely in the US,US remote work percentage workers 2025 work from home BLS 2026,11,62,1,0,0,0,,0,rejected_over_length_cap,
+74,how many people work remotely in the US,WFH Research US remote work 2025 percentage employees,8,53,1,0,0,0,WFH Research,1,no_volume_record,0
+75,how much electricity does a data center use,data center electricity consumption MW typical data center power usage EIA 2024,12,79,1,0,0,0,,0,rejected_over_length_cap,
+75,how much electricity does a data center use,IEA data centres electricity consumption 2024 2030 TWh,8,54,1,0,0,0,IEA,1,no_volume_record,0
+76,best electric SUV for long road trips,best electric SUVs long road trips 2026 range charging Kia EV9 Hyundai Ioniq 9 Rivian R1S Tesla Model X,19,103,1,0,0,0,EV9|Ioniq|R1S|Tesla,4,rejected_over_length_cap,
+77,is Notion worth it compared to Confluence,Notion vs Confluence pricing features 2026 official Notion Atlassian,9,68,1,0,1,0,Atlassian,1,no_volume_record,0
+77,is Notion worth it compared to Confluence,site:notion.com pricing Notion plans AI wiki project management,8,63,0,1,0,0,notion.com,1,no_volume_record,0
+77,is Notion worth it compared to Confluence,site:atlassian.com/software/confluence/pricing Confluence pricing plans AI,5,74,0,1,0,0,Atlassian|atlassian.com,2,no_volume_record,0
+78,how to set up a custom domain on Cloudflare,Cloudflare custom domain setup add domain DNS nameservers official docs,10,71,0,0,1,0,,0,no_volume_record,0
+79,best noise cancelling headphones for open plan offices,best noise cancelling headphones for open plan office reviews 2026,10,66,1,0,0,0,,0,no_volume_record,0
+80,is Webflow a good choice for a marketing site,Webflow CMS marketing website features SEO localization 2026,8,60,1,0,0,0,,0,no_volume_record,0
+80,is Webflow a good choice for a marketing site,Webflow pricing site plans CMS 2026,6,35,1,0,0,0,,0,no_volume_record,0
+81,top CRM options for a small B2B sales team,best CRM small B2B sales teams HubSpot Pipedrive Close Salesforce Sales Cloud 2026,13,82,1,0,0,0,Close|HubSpot|Pipedrive|Salesforce,4,rejected_over_length_cap,
+81,top CRM options for a small B2B sales team,HubSpot CRM small business sales features official,7,50,0,0,1,0,HubSpot,1,no_volume_record,0
+81,top CRM options for a small B2B sales team,Pipedrive CRM small business sales features official,7,52,0,0,1,0,Pipedrive,1,no_volume_record,0
+81,top CRM options for a small B2B sales team,Close CRM sales team features official,6,38,0,0,1,0,Close,1,no_volume_record,0
+82,how to descale a espresso machine properly,espresso machine descaling manufacturer instructions citric acid vinegar Breville DeLonghi,10,90,0,0,0,0,Breville|DeLonghi,2,rejected_over_length_cap,
+83,how to build a raised garden bed,raised garden bed how to build extension soil depth untreated lumber,11,68,0,0,0,0,,0,rejected_over_length_cap,
+84,what is generative engine optimization,generative engine optimization GEO definition generative AI search,8,66,0,0,0,0,,0,no_volume_record,0
+85,how to change a flat bicycle tire,how to change bicycle flat tire REI,7,35,0,0,0,0,REI,1,no_volume_record,0
+86,what does a fractional CFO actually do,fractional CFO what does a fractional CFO do responsibilities,9,61,0,0,0,0,,0,no_volume_record,0
+87,what is the difference between an ETF and a mutual fund,difference between ETFs and mutual funds expense ratios trading,9,63,0,0,0,0,,0,no_volume_record,0
+88,best project management software for a 10 person agency,best project management software for small creative agency 10 people,10,68,0,0,0,0,,0,no_volume_record,0
+89,what changed in Google Search in 2026,Google Search changes 2026 AI Overviews AI Mode Search 2026,10,59,1,0,0,0,,0,no_volume_record,0
+89,what changed in Google Search in 2026,Google Search 2026 AI Mode AI Overviews Search Live 2026,10,56,1,0,0,0,,0,no_volume_record,0
+90,latest electric vehicle tax credit rules in the US,2026 US electric vehicle tax credit rules July 2026 federal clean vehicle credit expiration IRS,15,95,1,0,0,0,,0,rejected_over_length_cap,
+90,latest electric vehicle tax credit rules in the US,One Big Beautiful Bill electric vehicle tax credit September 30 2025 clean vehicle credit IRS 2026,16,98,1,0,0,0,,0,rejected_over_length_cap,
+91,what do reviewers say about the Dyson V15 vacuum,Dyson V15 Detect reviews reviewers pros cons,7,44,0,0,0,0,,0,no_volume_record,0
+92,what are the newest features in Figma,newest Figma features 2026 Figma updates,6,40,1,0,0,0,,0,no_volume_record,0
+93,average cost of a wedding photographer in the US,average wedding photographer cost US 2026,6,41,1,0,0,0,,0,no_volume_record,0
+94,recent changes to remote work policies at large tech companies,2026 recent changes remote work policies large tech companies Amazon Google Meta Microsoft Apple remote work policy 2026,18,120,1,0,0,0,Meta|Microsoft,2,rejected_over_length_cap,
+94,recent changes to remote work policies at large tech companies,2026 Amazon return to office policy Google hybrid remote work Meta remote work Microsoft Apple,15,94,1,0,0,0,Meta|Microsoft,2,rejected_over_length_cap,
+95,how many people work remotely in the US,US remote work share 2026 workers work from home 2026,10,53,1,0,0,0,,0,no_volume_record,0
+95,how many people work remotely in the US,US remote work share 2025 2026 percent workers work from home BLS Census,13,72,1,0,0,0,,0,rejected_over_length_cap,
+96,average conversion rate for B2B SaaS websites,B2B SaaS website conversion rate benchmark demo request free trial visitor to lead 2025,14,87,1,0,0,0,,0,rejected_over_length_cap,
+96,average conversion rate for B2B SaaS websites,B2B SaaS conversion rate benchmark website visitor to lead 2024 First Page Sage,13,79,1,0,0,0,,0,rejected_over_length_cap,
+97,what percentage of ecommerce sales happen on mobile,US ecommerce sales mobile share 2025 percentage mobile commerce sales,10,69,1,0,0,0,,0,no_volume_record,0
+97,what percentage of ecommerce sales happen on mobile,global ecommerce mobile share sales 2025 percentage,7,51,1,0,0,0,,0,no_volume_record,0
+98,how much electricity does a data center use,data center electricity consumption MW typical data center power usage DOE,11,74,0,0,0,0,,0,rejected_over_length_cap,
+98,how much electricity does a data center use,data centers electricity use 2024 IEA data centres electricity consumption,10,74,1,0,0,0,IEA,1,no_volume_record,0
+99,typical price for a small business accountant,small business accountant typical cost monthly hourly bookkeeping tax preparation 2026,11,86,1,0,0,0,,0,rejected_over_length_cap,
+99,typical price for a small business accountant,small business accountant fees monthly bookkeeping hourly tax preparation typical cost,11,86,0,0,0,0,,0,rejected_over_length_cap,
+100,is Notion worth it compared to Confluence,Notion vs Confluence features pricing 2026 official Notion Atlassian,9,68,1,0,1,0,Atlassian,1,no_volume_record,0
+100,is Notion worth it compared to Confluence,Notion pricing plans official 2026,5,34,1,0,1,0,,0,no_volume_record,0
+100,is Notion worth it compared to Confluence,Confluence pricing plans official 2026,5,38,1,0,1,0,,0,no_volume_record,0
+101,how reliable is the Toyota RAV4 hybrid,Toyota RAV4 Hybrid reliability Consumer Reports 2025 2026,8,57,1,0,0,0,Consumer Reports,1,no_volume_record,0
+101,how reliable is the Toyota RAV4 hybrid,Toyota RAV4 Hybrid recalls 2025 2026 NHTSA,7,42,1,0,0,0,NHTSA,1,no_volume_record,0
+101,how reliable is the Toyota RAV4 hybrid,Toyota RAV4 Hybrid reliability RepairPal,5,40,0,0,0,0,RepairPal,1,no_volume_record,0
+102,what do reviewers say about the Dyson V15 vacuum,Dyson V15 Detect review reviewers RTINGS Wirecutter TechRadar Tom's Guide,10,73,0,0,0,0,RTINGS|TechRadar|Tom's Guide|Wirecutter,4,no_volume_record,0
+102,what do reviewers say about the Dyson V15 vacuum,Dyson V15 Detect owner reviews complaints battery dustbin trigger,9,65,0,0,0,0,,0,no_volume_record,0
+103,best project management software for a 10 person agency,best project management software agencies Asana ClickUp Monday Teamwork 2026,10,76,1,0,0,0,Asana|ClickUp|Teamwork,3,no_volume_record,0
+103,best project management software for a 10 person agency,Asana pricing features agency project management,6,48,0,0,0,0,Asana,1,no_volume_record,0
+103,best project management software for a 10 person agency,ClickUp pricing features agency project management,6,50,0,0,0,0,ClickUp,1,no_volume_record,0
+103,best project management software for a 10 person agency,Teamwork pricing agency project management,5,42,0,0,0,0,Teamwork,1,no_volume_record,0
+103,best project management software for a 10 person agency,monday.com pricing agency project management,5,44,0,0,0,0,monday.com,1,no_volume_record,0
+104,how to descale a espresso machine properly,espresso machine descaling manufacturer instructions citric acid vinegar Breville DeLonghi descale,11,98,0,0,0,0,Breville|DeLonghi,2,rejected_over_length_cap,
+105,top CRM options for a small B2B sales team,best CRM small B2B sales teams HubSpot Pipedrive Zoho Freshsales Salesforce pricing features 2026,14,97,1,0,0,0,Freshsales|HubSpot|Pipedrive|Salesforce|Zoho,5,rejected_over_length_cap,
+105,top CRM options for a small B2B sales team,site:hubspot.com sales hub pricing CRM free sales teams,8,55,0,1,0,0,HubSpot|hubspot.com,2,no_volume_record,0
+105,top CRM options for a small B2B sales team,site:pipedrive.com pricing CRM small business sales,6,51,0,1,0,0,Pipedrive|pipedrive.com,2,no_volume_record,0
+105,top CRM options for a small B2B sales team,site:zoho.com crm pricing sales force automation,6,48,0,1,0,0,Zoho|zoho.com,2,no_volume_record,0
+106,is Webflow a good choice for a marketing site,Webflow marketing website CMS SEO localization forms analytics official Webflow 2026,11,84,1,0,1,0,,0,rejected_over_length_cap,
+106,is Webflow a good choice for a marketing site,Webflow pricing plans CMS 2026 official,6,39,1,0,1,0,,0,no_volume_record,0
+107,how to build a raised garden bed,raised garden bed build extension service materials drainage depth,9,66,0,0,0,0,,0,no_volume_record,0
+108,what is the difference between an ETF and a mutual fund,SEC investor bulletin exchange traded funds mutual funds differences,9,68,0,0,0,0,SEC,1,no_volume_record,0
+109,what is generative engine optimization,generative engine optimization GEO definition AI search optimization,8,68,0,0,0,0,,0,no_volume_record,0
+109,what is generative engine optimization,Google AI features SEO AI overviews content guidance,8,52,0,0,0,0,,0,no_volume_record,0
+110,what changed in Google Search in 2026,Google Search changes 2026 AI Overviews AI Mode Search updates 2026,11,67,1,0,0,0,,0,rejected_over_length_cap,
+110,what changed in Google Search in 2026,site:blog.google/products/search/ 2026 Google Search AI Mode AI Overviews January February March April May June July August 2026,17,128,1,1,0,0,blog.google,1,rejected_over_length_cap,
+110,what changed in Google Search in 2026,site:developers.google.com/search 2026 Google Search ranking updates 2026 core update spam update,11,97,1,1,0,0,developers.google.com,1,rejected_over_length_cap,
+111,best noise cancelling headphones for open plan offices,best noise cancelling headphones office Sony WH-1000XM6 Bose QuietComfort Ultra 2026,11,84,1,0,0,0,Bose|QuietComfort|Sony|WH-1000XM6,4,rejected_over_length_cap,
+112,typical price for a small business accountant,small business accountant typical cost monthly bookkeeping tax preparation 2026,10,79,1,0,0,0,,0,no_volume_record,0
+112,typical price for a small business accountant,small business accountant typical cost monthly bookkeeping tax preparation 2026,10,79,1,0,0,0,,0,no_volume_record,0
+113,what are the newest features in Figma,Figma newest features 2026 Figma release notes Config 2026,9,58,1,0,0,0,,0,no_volume_record,0
+113,what are the newest features in Figma,Figma latest features 2026 Make Sites Buzz Slides release notes,10,63,1,0,0,0,,0,no_volume_record,0
+114,what does a fractional CFO actually do,fractional CFO what does a fractional CFO do responsibilities,9,61,0,0,0,0,,0,no_volume_record,0
+115,how much does it cost to resurface a driveway,driveway resurfacing cost asphalt concrete per square foot 2026,9,63,1,0,0,0,,0,no_volume_record,0
+116,average cost of a wedding photographer in the US,average wedding photographer cost United States 2026,7,52,1,0,0,0,,0,no_volume_record,0
+116,average cost of a wedding photographer in the US,average wedding photographer cost US 2026,6,41,1,0,0,0,,0,no_volume_record,0
+117,what percentage of ecommerce sales happen on mobile,US ecommerce mobile share sales 2025 percentage mobile commerce sales Insider Intelligence,12,90,1,0,0,0,,0,rejected_over_length_cap,
+117,what percentage of ecommerce sales happen on mobile,global ecommerce mobile share sales 2025 percentage,7,51,1,0,0,0,,0,no_volume_record,0
+118,how much electricity does a data center use,data center electricity consumption MW hyperscale data center typical power use IEA 2025,13,88,1,0,0,0,IEA,1,rejected_over_length_cap,
+118,how much electricity does a data center use,Lawrence Berkeley National Laboratory data center electricity 2024 2028 power demand MW,12,87,1,0,0,0,,0,rejected_over_length_cap,
+119,recent changes to remote work policies at large tech companies,large tech companies remote work policy changes 2026 Amazon Google Meta Microsoft Apple,13,87,1,0,0,0,Meta|Microsoft,2,rejected_over_length_cap,
+119,recent changes to remote work policies at large tech companies,2026 Amazon return to office policy 5 days Google hybrid Meta remote work policy Microsoft Apple,16,96,1,0,0,0,Meta|Microsoft,2,rejected_over_length_cap,
+119,recent changes to remote work policies at large tech companies,site:aboutamazon.com return office 2025 2026 5 days,7,51,1,1,0,0,aboutamazon.com,1,no_volume_record,0
+119,recent changes to remote work policies at large tech companies,site:blog.google remote work office policy 2026,6,47,1,1,0,0,blog.google,1,no_volume_record,0
+119,recent changes to remote work policies at large tech companies,site:about.fb.com remote work office policy 2026 Meta,7,53,1,1,0,0,Meta|about.fb.com,2,no_volume_record,0
+119,recent changes to remote work policies at large tech companies,site:blogs.microsoft.com remote work policy 2026,5,48,1,1,0,0,Microsoft|blogs.microsoft.com,2,no_volume_record,0
+120,average conversion rate for B2B SaaS websites,average B2B SaaS website conversion rate benchmark,7,50,0,0,0,0,,0,no_volume_record,0
+121,how many people work remotely in the US,United States remote work share workers 2025 work from home Census Bureau ACS,13,77,1,0,0,0,,0,rejected_over_length_cap,
+121,how many people work remotely in the US,US remote work percentage workers 2025 work from home Census ACS remote workers 2024 2025,15,89,1,0,0,0,,0,rejected_over_length_cap,
