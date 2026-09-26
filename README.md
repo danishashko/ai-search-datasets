@@ -8,6 +8,7 @@ All datasets are CC BY 4.0. Cite the source article when you use one.
 
 | Dataset | Rows | What it covers | Source article |
 |---|---|---|---|
+| [ai-engine-recommendations](./ai-engine-recommendations/) | 11,889 | Every brand ChatGPT, Copilot, Gemini, and Google AI Mode recommended across 160 "best X" prompts, 3 runs each, with cited domains and shopping modules (September 2026) | [AI Engines Recommend Different Brands: 1,920 Answers Compared](https://organikpi.com/blog/geo-ai-search/ai-engines-different-recommendations/) |
 | [ai-overview-best-x-citations](./ai-overview-best-x-citations/) | 1,208 | Every citation Google's AI Overview returned for 160 "best X" buyer queries (US desktop, September 2026) | [Who Google's AI Overview Cites When Buyers Search "Best X"](https://organikpi.com/blog/geo-ai-search/ai-overview-citations-best-x-queries/) |
 | [ai-citation-patterns](./ai-citation-patterns/) | 153,425 | Citations from 5,000 queries across 6 AI platforms, cited sentences decoded via text fragments (May 2026) | [Google Killed AI Mode Text Fragments](https://organikpi.com/blog/seo-strategy/ai-mode-text-fragments-dead-153425-citations/) |
 | [grounding-citation-analysis](./grounding-citation-analysis/) | 42,971 | Google AI Mode citations with 11,672 exact cited sentences decoded (March 2026, unrepeatable capture) | [We Decoded 42,971 AI Citations](https://organikpi.com/blog/geo-ai-search/decoded-42971-ai-citations-google-research/) |
