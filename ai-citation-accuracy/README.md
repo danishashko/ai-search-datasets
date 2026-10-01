@@ -1,6 +1,6 @@
 # AI citation accuracy: do the cited pages back the claims?
 
-**85% of AI citations back at least part of the claim they are attached to. 15% back none of it.** 2,664 citation-claim pairs from ChatGPT, Gemini, and Copilot, each checked against the cited page text. ChatGPT has the lowest unsupported rate (7.3%), Gemini the highest (22.8%). Pricing is the leading cause of partial failure.
+**85% of AI citations back at least part of the claim they are attached to. 15% back none of it.** 2,664 citation-claim pairs from ChatGPT, Gemini, and Copilot, each checked against the cited page text. ChatGPT has the lowest unsupported rate (7.3%), Gemini the highest (22.8%). Missing feature details cause most partial failures; prices are second.
 
 Source article: [Do AI Citations Actually Back the Claims They Are Attached To? 2,664 Verdicts](https://organikpi.com/blog/geo-ai-search/ai-citation-accuracy-study/) (canonical version of this dataset and the full analysis).
 
@@ -8,7 +8,7 @@ Source article: [Do AI Citations Actually Back the Claims They Are Attached To? 
 
 - Fully supported: 1,409 (53%), partially supported: 855 (32%), not supported: 400 (15%)
 - ChatGPT: 7.3% unsupported, Copilot: 15.0%, Gemini: 22.8%
-- 16% of partial verdicts involve a price that does not appear on the cited page
+- 64% of partial verdicts miss a feature or spec detail; 16% involve a price that does not appear on the cited page
 - Vendor own-pages: 23% unsupported vs. 13% for third-party review sites
 - 128 of 160 queries produced at least one unsupported citation
 - Inter-rater agreement on supported vs. not: 92% (Cohen's kappa 0.55 overall)
