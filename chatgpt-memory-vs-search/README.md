@@ -1,17 +1,19 @@
 # ChatGPT memory vs search brand recommendations
 
-**ChatGPT's training-data memory still picks the winner 70% of the time.** The #1 recommendation matched in 110 of 158 buyer prompts whether search was on or off. Search added about 2 brands per prompt but rarely changed the top pick. 60.4% of all recommended brands appeared in both arms.
+**ChatGPT kept the same #1 pick in 110 of 158 buyer prompts (70%) with and without web search.** Search swapped about 2 brands in and 1.7 out per prompt, and about half of those swaps appeared in only 1 of 3 runs. 60.4% of recommended brand-prompt pairs appeared in both arms.
 
-Source article: [ChatGPT Memory Still Decides 7 in 10 Top Picks](https://organikpi.com/blog/geo-ai-search/chatgpt-memory-vs-search-brand-recommendations/) (canonical version of this dataset and the full analysis).
+Source article: [ChatGPT Keeps Its No-Search Top Pick in 7 of 10 Prompts](https://organikpi.com/blog/geo-ai-search/chatgpt-memory-vs-search-brand-recommendations/) (canonical version of this dataset and the full analysis).
 
 ## Key numbers
 
-- #1 pick same in 110 of 158 prompts (70%) with or without web search
-- Within-arm rerun overlap: 75.2%. Cross-arm (memory vs search): 63.7%. Gap: 11.6 pp (p < 10e-21)
+- #1 pick same in 110 of 158 prompts (modal pick across 3 runs per arm); search flipped it in 48
+- Per-run #1 agreement: memory reruns 82.7%, search reruns 74.9%, memory vs search 65.7%
+- Within-arm rerun overlap: 75.2%. Cross-arm (memory vs search): 63.7%. Gap: 11.6 pp (p < 1e-21)
 - Of 1,493 brand-prompt pairs: both arms 60.4%, search-only 21.5%, memory-only 18.1%
-- Memory favourites slipped from position 1.92 to 2.29 under search; 14 of 425 dropped out
-- Business services shifted most (14.1 pp gap), developer tools least (7.6 pp)
-- Citations in search answers made no difference to brand selection (p = 0.91)
+- Per prompt, search added 2.03 and dropped 1.71 brands; 55.8% of search-only and 55.2% of memory-only pairs appeared in just 1 of 3 runs
+- Overlap gap by segment: business services 14.1 pp, developer tools 7.6 pp (differences between segments not tested)
+
+"Memory" = the prompt carried the suffix "Answer from what you already know. Do not search the web." "Search" = "Search the web before answering." Arms are analysed as assigned; 200 of 474 search answers showed inline citations.
 
 ## Files
 
