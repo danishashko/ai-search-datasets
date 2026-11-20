@@ -1,0 +1,440 @@
+model,prompt_id,run,prompt,fanout_query,has_year,unprompted_vendors
+gemini-4-argon,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot vs Pipedrive startup pricing 2025 2026,True,
+gemini-4-argon,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot for Startups discount 2026,True,
+gemini-4-argon,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI crawler robots txt OAI SearchBot GPTBot,False,
+gemini-4-argon,p04,2,How do I get my website cited in ChatGPT answers?,how to get cited in chatgpt search oai searchbot,False,
+gemini-4-argon,p07,1,Best accounting software for freelancers in the UK,making tax digital sole traders 2026 software,True,
+gemini-4-argon,p07,1,Best accounting software for freelancers in the UK,best accounting software freelancers UK 2026,True,
+gemini-4-argon,p07,2,Best accounting software for freelancers in the UK,best accounting software freelancers UK 2026,True,
+gemini-4-argon,p07,2,Best accounting software for freelancers in the UK,Making Tax Digital ITSA UK 2026,True,
+gemini-4-argon,p10,1,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-argon,p10,1,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-argon,p10,2,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-argon,p10,2,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-argon,p11,1,Best coffee shops to work from in Austin,best coffee shops to work from in austin 2025 2026,True,
+gemini-4-argon,p11,2,Best coffee shops to work from in Austin,best coffee shops to work from in austin 2025 2026,True,
+gemini-4-argon,p12,1,What is query fan-out in Google AI Mode?,query fan out Google AI Mode,False,
+gemini-4-argon,p12,2,What is query fan-out in Google AI Mode?,query fan out Google AI Mode,False,
+gemini-4-argon,p12,2,What is query fan-out in Google AI Mode?,query fan-out Google search AI,False,
+gemini-4-carbon,p01,1,What is the best CRM for a 10-person B2B sales team?,best B2B CRM small sales team 2026,True,
+gemini-4-carbon,p01,1,What is the best CRM for a 10-person B2B sales team?,HubSpot Sales Hub pricing per seat 2026,True,HubSpot
+gemini-4-carbon,p01,2,What is the best CRM for a 10-person B2B sales team?,Attio CRM pricing 2026,True,Attio
+gemini-4-carbon,p01,2,What is the best CRM for a 10-person B2B sales team?,HubSpot Sales Hub pricing 2026,True,HubSpot
+gemini-4-carbon,p01,2,What is the best CRM for a 10-person B2B sales team?,Pipedrive pricing plans 2026,True,Pipedrive
+gemini-4-carbon,p01,2,What is the best CRM for a 10-person B2B sales team?,Close CRM pricing 2026,True,
+gemini-4-carbon,p01,2,What is the best CRM for a 10-person B2B sales team?,monday CRM pricing 2026,True,Monday|monday
+gemini-4-carbon,p02,1,Best email marketing platform for a Shopify store,best email marketing platform for shopify 2026,True,
+gemini-4-carbon,p02,1,Best email marketing platform for a Shopify store,Klaviyo vs Omnisend vs Shopify Email pricing 2026,True,Klaviyo|Omnisend|Shopify Email
+gemini-4-carbon,p02,2,Best email marketing platform for a Shopify store,best email marketing platform for shopify 2026,True,
+gemini-4-carbon,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot for Startups pricing 2026,True,
+gemini-4-carbon,p03,1,HubSpot vs Pipedrive for an early-stage startup,Pipedrive pricing 2026,True,
+gemini-4-carbon,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot for Startups discount 2026 pricing,True,
+gemini-4-carbon,p03,2,HubSpot vs Pipedrive for an early-stage startup,Pipedrive pricing 2026,True,
+gemini-4-carbon,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI web crawler robots txt OAI SearchBot,False,
+gemini-4-carbon,p04,1,How do I get my website cited in ChatGPT answers?,how to optimize website for ChatGPT search citations,False,
+gemini-4-carbon,p04,2,How do I get my website cited in ChatGPT answers?,OpenAI SearchGPT webmaster guidelines bots,False,
+gemini-4-carbon,p04,2,How do I get my website cited in ChatGPT answers?,how to get website cited in ChatGPT search,False,
+gemini-4-carbon,p05,1,What is the best project management tool for a marketing agency?,best project management software for marketing agencies 2026,True,
+gemini-4-carbon,p05,2,What is the best project management tool for a marketing agency?,best project management tools for marketing agencies 2026,True,
+gemini-4-carbon,p06,1,How much does a technical SEO audit cost?,technical SEO audit cost 2025 2026,True,
+gemini-4-carbon,p06,2,How much does a technical SEO audit cost?,how much does an SEO audit cost,False,
+gemini-4-carbon,p06,2,How much does a technical SEO audit cost?,technical SEO audit cost 2025 2026,True,
+gemini-4-carbon,p07,1,Best accounting software for freelancers in the UK,"""Sage"" sole trader free plan UK 2026",True,Sage
+gemini-4-carbon,p07,1,Best accounting software for freelancers in the UK,FreeAgent QuickBooks Xero Coconut UK freelancers 2026,True,FreeAgent|QuickBooks|Xero
+gemini-4-carbon,p07,1,Best accounting software for freelancers in the UK,Making Tax Digital ITSA 2026 software freelancers,True,
+gemini-4-carbon,p07,1,Best accounting software for freelancers in the UK,best accounting software for freelancers UK 2026,True,
+gemini-4-carbon,p07,1,Best accounting software for freelancers in the UK,"""QuickBooks Sole Trader"" UK price 2026",True,QuickBooks
+gemini-4-carbon,p07,2,Best accounting software for freelancers in the UK,Xero vs Quickbooks vs Freeagent UK pricing 2026,True,FreeAgent|QuickBooks|Xero
+gemini-4-carbon,p07,2,Best accounting software for freelancers in the UK,Making Tax Digital for Income Tax 2026 UK,True,
+gemini-4-carbon,p07,2,Best accounting software for freelancers in the UK,best accounting software for freelancers UK 2026,True,
+gemini-4-carbon,p07,2,Best accounting software for freelancers in the UK,Coconut Ember Crunch accounting software UK 2026,True,
+gemini-4-carbon,p10,1,Best running shoes for flat feet,"""Brooks Adrenaline GTS 26"" release date",False,Adrenaline|Brooks
+gemini-4-carbon,p10,1,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-carbon,p10,1,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-carbon,p10,1,Best running shoes for flat feet,"""Saucony Tempus 2"" release date",False,Saucony
+gemini-4-carbon,p10,1,Best running shoes for flat feet,"""Brooks Beast"" 2026",True,Brooks
+gemini-4-carbon,p10,1,Best running shoes for flat feet,"""ASICS Gel-Kayano 33"" release date",False,Asics|Gel-Kayano|Kayano
+gemini-4-carbon,p10,2,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-carbon,p10,2,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-carbon,p11,1,Best coffee shops to work from in Austin,"""Bennu Coffee"" hours austin 2026",True,
+gemini-4-carbon,p11,1,Best coffee shops to work from in Austin,"""Epoch Coffee"" North Loop hours austin 2026",True,
+gemini-4-carbon,p11,1,Best coffee shops to work from in Austin,best coffee shops to work from in austin 2025 2026,True,
+gemini-4-carbon,p11,1,Best coffee shops to work from in Austin,coffee shops for remote work austin reddit 2025 2026,True,
+gemini-4-carbon,p11,1,Best coffee shops to work from in Austin,"""Greater Goods"" east 5th austin closed",False,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,bennu coffee austin hours 2026,True,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,radio coffee austin locations 2026,True,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,best remote work coffee shops Austin 2025 2026,True,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,did flightpath coffeehouse austin close,False,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,epoch coffee austin hours 2026,True,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,best coffee shops to work from in Austin,False,
+gemini-4-carbon,p11,2,Best coffee shops to work from in Austin,sa-ten coffee austin locations 2026,True,
+gemini-4-carbon,p12,1,What is query fan-out in Google AI Mode?,query fan out Google AI Mode,False,
+gemini-4-carbon,p12,2,What is query fan-out in Google AI Mode?,"""query fan-out"" Google I/O AI Mode",False,
+gemini-4-carbon,p12,2,What is query fan-out in Google AI Mode?,query fan-out Google AI Mode,False,
+gemini-4-carbon,p12,2,What is query fan-out in Google AI Mode?,"""query fan-out"" site:blog.google",False,
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,Salesforce Starter Suite pricing 2026,True,Salesforce
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,Pipedrive pricing 2026,True,Pipedrive
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,best CRM for small B2B sales team 2026,True,
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,HubSpot Sales Hub pricing 2026,True,HubSpot
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,Attio CRM pricing 2026,True,Attio
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,Zoho CRM pricing 2026,True,Zoho
+gemini-4-hydrogen,p01,1,What is the best CRM for a 10-person B2B sales team?,Close CRM pricing 2026,True,
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,Attio CRM pricing 2026,True,Attio
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,Zoho CRM pricing 2026,True,Zoho
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,Attio pricing USD November 2026,True,Attio
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,Salesforce Starter Suite Pro Suite pricing 2026,True,Salesforce
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,Pipedrive pricing 2026,True,Pipedrive
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,best CRM for small B2B sales team 2026,True,
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,Close CRM pricing 2026,True,
+gemini-4-hydrogen,p01,2,What is the best CRM for a 10-person B2B sales team?,HubSpot Sales Hub pricing 2026,True,HubSpot
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,shopify email pricing 2026,True,
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,sendlane pricing shopify 2026,True,Sendlane
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,klaviyo vs omnisend vs shopify email 2026,True,Klaviyo|Omnisend
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,best email marketing platform for shopify 2026,True,
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,klaviyo pricing 2026 active profiles billing,True,Klaviyo
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,"""Shopify Messaging"" Shopify Email",False,Shopify Email
+gemini-4-hydrogen,p02,1,Best email marketing platform for a Shopify store,omnisend pricing 2026,True,Omnisend
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,privy email marketing shopify pricing 2026,True,Privy
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,klaviyo pricing 2026 free plan active profiles,True,Klaviyo
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,drip email marketing shopify pricing 2026,True,
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,klaviyo vs omnisend vs shopify email 2026,True,Klaviyo|Omnisend
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,best email marketing platforms for shopify 2026,True,
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,"""Shopify Messaging"" email pricing 2026",True,
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,"""Shopify Email"" rebrand ""Shopify Messaging""",False,Shopify Email
+gemini-4-hydrogen,p02,2,Best email marketing platform for a Shopify store,omnisend pricing 2026 plans,True,Omnisend
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot Sales Hub pricing 2026,True,
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot vs Pipedrive 2026,True,
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,"""HubSpot"" free CRM ""2 users"" OR ""unlimited users"" 2026",True,
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot for Startups discount 2026,True,
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,"Pipedrive startup discount OR ""Pipedrive for Startups"" 2026",True,
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot CRM pricing 2026,True,
+gemini-4-hydrogen,p03,1,HubSpot vs Pipedrive for an early-stage startup,Pipedrive pricing plans 2026,True,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,Pipedrive pricing 2026,True,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot vs Pipedrive early stage startup,False,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot for Startups discount 2026,True,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot pricing 2026,True,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,"""Pipedrive"" ""Lite"" ""Growth"" ""Premium"" ""Ultimate"" pricing 2026",True,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,"""HubSpot"" ""Sales Hub"" pricing 2026 starter professional",True,
+gemini-4-hydrogen,p03,2,HubSpot vs Pipedrive for an early-stage startup,"""HubSpot"" ""Sales Hub Starter"" sequences 2026",True,
+gemini-4-hydrogen,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI llms.txt official support ChatGPT search,False,
+gemini-4-hydrogen,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI OAI-SearchBot robots txt guidelines,False,
+gemini-4-hydrogen,p04,1,How do I get my website cited in ChatGPT answers?,how to get website cited in ChatGPT search 2025 2026,True,
+gemini-4-hydrogen,p04,1,How do I get my website cited in ChatGPT answers?,ChatGPT search indexing Bing OpenAI crawler,False,
+gemini-4-hydrogen,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI product feed merchant ChatGPT shopping submit website,False,
+gemini-4-hydrogen,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI official documentation publishers ChatGPT search inclusion,False,
+gemini-4-hydrogen,p04,2,How do I get my website cited in ChatGPT answers?,OAI-SearchBot robots.txt ChatGPT search,False,
+gemini-4-hydrogen,p04,2,How do I get my website cited in ChatGPT answers?,how to get cited in ChatGPT answers OpenAI guidelines,False,
+gemini-4-hydrogen,p04,2,How do I get my website cited in ChatGPT answers?,generative engine optimization ChatGPT citations best practices 2026,True,
+gemini-4-hydrogen,p04,2,How do I get my website cited in ChatGPT answers?,ChatGPT search index Bing vs OpenAI index 2026,True,
+gemini-4-hydrogen,p04,2,How do I get my website cited in ChatGPT answers?,"""Introducing Businesses in ChatGPT"" OpenAI Business Hub",False,
+gemini-4-hydrogen,p05,1,What is the best project management tool for a marketing agency?,"""Productive.io"" features marketing agency proofing retainers",False,
+gemini-4-hydrogen,p05,1,What is the best project management tool for a marketing agency?,best project management tools for marketing agencies 2026,True,
+gemini-4-hydrogen,p05,1,What is the best project management tool for a marketing agency?,"""Teamwork.com"" features marketing agency proofing retainers",False,Teamwork
+gemini-4-hydrogen,p05,1,What is the best project management tool for a marketing agency?,marketing agency project management software comparison,False,
+gemini-4-hydrogen,p05,2,What is the best project management tool for a marketing agency?,Productive vs Teamwork vs ClickUp agency,False,ClickUp|Teamwork
+gemini-4-hydrogen,p05,2,What is the best project management tool for a marketing agency?,Productive.io agency project management review 2026,True,
+gemini-4-hydrogen,p05,2,What is the best project management tool for a marketing agency?,best project management software for marketing agencies 2026,True,
+gemini-4-hydrogen,p05,2,What is the best project management tool for a marketing agency?,Asana vs Monday vs Wrike for marketing agency 2026,True,Asana|Monday|Wrike|monday
+gemini-4-hydrogen,p05,2,What is the best project management tool for a marketing agency?,top agency project management tools 2026,True,
+gemini-4-hydrogen,p06,1,How much does a technical SEO audit cost?,עלות ביקורת SEO טכנית,False,
+gemini-4-hydrogen,p06,1,How much does a technical SEO audit cost?,technical SEO audit cost Israel,False,
+gemini-4-hydrogen,p06,1,How much does a technical SEO audit cost?,how much does a technical SEO audit cost,False,
+gemini-4-hydrogen,p06,1,How much does a technical SEO audit cost?,technical SEO audit cost pricing 2025 2026,True,
+gemini-4-hydrogen,p06,2,How much does a technical SEO audit cost?,עלות ביקורת SEO טכנית,False,
+gemini-4-hydrogen,p06,2,How much does a technical SEO audit cost?,technical SEO audit cost 2026,True,
+gemini-4-hydrogen,p06,2,How much does a technical SEO audit cost?,how much does a technical SEO audit cost,False,
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""Pandle"" pricing UK 2026 MTD",True,Pandle
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""Xero"" Simple Ignite Grow pricing UK 2026",True,Xero
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""Xero Simple"" plan UK price MTD 2026",True,Xero
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,MTD for ITSA accounting software UK 2026,True,
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""FreeAgent"" pricing UK sole trader 2026",True,FreeAgent
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,best accounting software for freelancers UK 2026,True,
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""Sage"" ""Sole Trader"" OR ""Sage Individual"" UK pricing 2026",True,Sage
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""QuickBooks"" Sole Trader pricing UK 2026",True,QuickBooks
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""Coconut"" OR ""Pandle"" OR ""QuickFile"" accounting UK 2026",True,Pandle
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,FreeAgent Xero QuickBooks pricing UK 2026,True,FreeAgent|QuickBooks|Xero
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""Sage Accounting"" OR ""Sage Individual"" UK pricing 2026",True,Sage
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""FreshBooks"" UK pricing 2026",True,FreshBooks
+gemini-4-hydrogen,p07,1,Best accounting software for freelancers in the UK,"""FreshBooks"" ""Making Tax Digital"" Income Tax UK 2026",True,FreshBooks
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,best accounting software freelancers UK 2026,True,
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,"""QuickBooks Sole Trader"" pricing UK 2026",True,QuickBooks
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,"""Xero Simple"" pricing features UK 2026",True,Xero
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,best sole trader accounting software UK MTD ITSA 2026,True,
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,"""Sage Sole Trader"" OR ""Sage Individual"" pricing UK 2026",True,Sage
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,FreeAgent pricing UK sole trader 2026,True,FreeAgent
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,FreeAgent QuickBooks Xero Coconut pricing UK 2026,True,FreeAgent|QuickBooks|Xero
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,Coconut accounting app pricing UK 2026,True,
+gemini-4-hydrogen,p07,2,Best accounting software for freelancers in the UK,Xero Simple vs QuickBooks Sole Trader UK 2026,True,QuickBooks|Xero
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,"""Confluence"" mermaid diagrams code blocks 2025 2026",True,
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,Notion mermaid code block support,False,
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,Notion vs Confluence engineering wiki 2025 2026,True,
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,Confluence new features 2025 2026,True,
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,"""Notion"" engineering wiki pros cons stale docs 2026",True,
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,Confluence content verification stale pages analytics 2026,True,
+gemini-4-hydrogen,p08,1,Is Notion or Confluence better for an engineering wiki?,Notion new features 2025 2026,True,
+gemini-4-hydrogen,p08,2,Is Notion or Confluence better for an engineering wiki?,Confluence page verification stale docs mermaid GitHub,False,
+gemini-4-hydrogen,p08,2,Is Notion or Confluence better for an engineering wiki?,Confluence new features 2025 2026 databases AI,True,
+gemini-4-hydrogen,p08,2,Is Notion or Confluence better for an engineering wiki?,Notion vs Confluence engineering wiki 2025 2026,True,
+gemini-4-hydrogen,p08,2,Is Notion or Confluence better for an engineering wiki?,Notion wiki verification stale docs GitHub mermaid,False,
+gemini-4-hydrogen,p08,2,Is Notion or Confluence better for an engineering wiki?,Notion engineering wiki features 2025 2026,True,
+gemini-4-hydrogen,p08,2,Is Notion or Confluence better for an engineering wiki?,Atlassian retiring Confluence Data Center,False,
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,"""RTINGS"" ""Best Running Shoes For Flat Feet of 2026""",True,
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,Brooks Adrenaline GTS 26 vs 25,False,Adrenaline|Brooks
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,ASICS Gel Kayano 33 vs 32 release date,False,Asics|Kayano
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,"""HOKA Arahi 9"" review 2026",True,Arahi|Hoka
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,"""RunRepeat"" ""Best Running Shoes For Flat Feet in 2026""",True,
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,"""Saucony Guide 19"" review 2026",True,Saucony
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,"""Brooks Ghost Max 3"" review 2026",True,Brooks
+gemini-4-hydrogen,p10,1,Best running shoes for flat feet,"""New Balance Fresh Foam X 860v15"" OR ""860 v15"" review 2026",True,New Balance
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,"""New Balance Fresh Foam X 860v15"" OR ""HOKA Arahi 9"" review 2026",True,Arahi|Hoka|New Balance
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,"""ASICS Gel-Kayano 33"" OR ""Brooks Adrenaline GTS 25"" review 2026",True,Adrenaline|Asics|Brooks|Gel-Kayano|Kayano
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,"""RunRepeat"" ""Best Running Shoes For Flat Feet in 2026""",True,
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,"""RTINGS"" ""Best Running Shoes For Flat Feet of 2026""",True,
+gemini-4-hydrogen,p10,2,Best running shoes for flat feet,"""Saucony Hurricane 26"" OR ""Saucony Guide 19"" review 2026",True,Saucony
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Halcyon"" OR ""Stouthaus"" OR ""Simona's"" Austin coffee 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,best coffee shops to work remote Austin TX,False,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Cosmic Coffee"" OR ""Patika"" Austin work laptop 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Sa-Ten"" ""11th"" OR ""Springdale"" Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Houndstooth Coffee"" OR ""Medici"" OR ""Mozart's Coffee"" Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Greater Goods"" E 5th OR ""Sa-Ten"" OR ""Epoch Coffee"" Austin open 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Carpenter Coffee Bar"" OR ""Hot L Coffee"" Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Pershing East"" Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Cherrywood Coffeehouse"" OR ""Flightpath Coffeehouse"" OR ""Bennu Coffee"" Austin open 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Radio Coffee & Beer"" locations Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Epoch Coffee"" Austin 2026 OR ""Flightpath Coffeehouse"" Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Houndstooth Coffee"" work laptop wifi outlets Austin",False,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Leona Botanical Cafe"" OR ""Pershing East"" Austin coffee work",False,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,best coffee shops to work from Austin 2026,True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Flightpath Coffeehouse"" Austin 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Sa-Ten"" Austin locations 2026",True,
+gemini-4-hydrogen,p11,1,Best coffee shops to work from in Austin,"""Radio Coffee"" East Austin OR ""Cosmic Coffee"" Austin work remote",False,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Houndstooth Coffee"" Austin locations 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,site:reddit.com/r/Austin OR site:reddit.com/r/austinfood coffee shop work 2025 OR 2026,True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,best coffee shops to work from Austin 2026,True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Radio Coffee"" Austin locations 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Cherrywood Coffeehouse"" OR ""Flightpath Coffeehouse"" OR ""Cosmic Coffee"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Bennu Coffee"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Leona Botanical"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Monkey Nest"" OR ""Turnstile Coffee"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Lazarus Brewing"" OR ""Greater Goods"" OR ""Once Over"" Austin coffee 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,best coffee shops remote work Austin TX 2025 2026,True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Flightpath Coffeehouse"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Greater Goods"" ""East 5th"" Austin open OR closed 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Simona's"" ""Colton House"" OR ""The Meteor"" Austin coffee 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Genuine Joe"" OR ""Halcyon"" OR ""Spokesman"" OR ""Palomino"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Epoch Coffee"" Austin open 2026 OR closed",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Patika"" OR ""Once Over"" Austin WiFi outlets work",False,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Genuine Joe Coffeehouse"" Austin address 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""The Meteor"" South Congress Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Carpenter Coffee Bar"" OR ""Hot L Coffee"" Austin 2026",True,
+gemini-4-hydrogen,p11,2,Best coffee shops to work from in Austin,"""Best Coffee Shops in Austin for Working, Hanging Out, or Just Existing"" ""ATX Weekly""",False,
+gemini-4-hydrogen,p12,1,What is query fan-out in Google AI Mode?,"""query fan-out"" site:blog.google",False,
+gemini-4-hydrogen,p12,1,What is query fan-out in Google AI Mode?,query fan-out Google AI Mode,False,
+gemini-4-hydrogen,p12,1,What is query fan-out in Google AI Mode?,"""query fan-out"" site:developers.google.com",False,
+gemini-4-hydrogen,p12,2,What is query fan-out in Google AI Mode?,Google Search AI Mode query fan out technique how it works,False,
+gemini-4-hydrogen,p12,2,What is query fan-out in Google AI Mode?,"site:blog.google ""query fan-out"" ""AI Mode""",False,
+gemini-4-hydrogen,p12,2,What is query fan-out in Google AI Mode?,query fan out Google AI Mode,False,
+gemini-4-hydrogen,p12,2,What is query fan-out in Google AI Mode?,"site:developers.google.com ""query fan-out"" ""AI Mode""",False,
+gemini-4-hydrogen,p12,2,What is query fan-out in Google AI Mode?,"site:blog.google ""Deep Search"" ""query fan-out""",False,
+gemini-4-neon,p01,1,What is the best CRM for a 10-person B2B sales team?,Pipedrive pricing 2026,True,Pipedrive
+gemini-4-neon,p01,1,What is the best CRM for a 10-person B2B sales team?,HubSpot Sales Hub pricing 2026,True,HubSpot
+gemini-4-neon,p01,1,What is the best CRM for a 10-person B2B sales team?,Close CRM pricing 2026,True,
+gemini-4-neon,p01,1,What is the best CRM for a 10-person B2B sales team?,Salesforce Pro Suite pricing 2026,True,Salesforce
+gemini-4-neon,p01,1,What is the best CRM for a 10-person B2B sales team?,monday CRM pricing 2026,True,Monday|monday
+gemini-4-neon,p01,1,What is the best CRM for a 10-person B2B sales team?,Attio CRM pricing 2026,True,Attio
+gemini-4-neon,p01,2,What is the best CRM for a 10-person B2B sales team?,Attio CRM pricing 2026,True,Attio
+gemini-4-neon,p01,2,What is the best CRM for a 10-person B2B sales team?,Pipedrive pricing 2026,True,Pipedrive
+gemini-4-neon,p01,2,What is the best CRM for a 10-person B2B sales team?,best CRM for small B2B sales team 2026,True,
+gemini-4-neon,p01,2,What is the best CRM for a 10-person B2B sales team?,HubSpot Sales Hub pricing 2026,True,HubSpot
+gemini-4-neon,p01,2,What is the best CRM for a 10-person B2B sales team?,Zoho CRM pricing 2026,True,Zoho
+gemini-4-neon,p01,2,What is the best CRM for a 10-person B2B sales team?,Close CRM pricing 2026,True,
+gemini-4-neon,p02,1,Best email marketing platform for a Shopify store,best email marketing platform for shopify 2026,True,
+gemini-4-neon,p02,1,Best email marketing platform for a Shopify store,klaviyo vs omnisend vs shopify email 2026,True,Klaviyo|Omnisend
+gemini-4-neon,p02,1,Best email marketing platform for a Shopify store,"""Shopify Messaging"" ""Shopify Email"" rename",False,Shopify Email
+gemini-4-neon,p02,2,Best email marketing platform for a Shopify store,klaviyo pricing 2026 shopify,True,Klaviyo
+gemini-4-neon,p02,2,Best email marketing platform for a Shopify store,best email marketing platform for shopify 2026,True,
+gemini-4-neon,p02,2,Best email marketing platform for a Shopify store,shopify email pricing 2026,True,
+gemini-4-neon,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot CRM pricing 2026,True,
+gemini-4-neon,p03,1,HubSpot vs Pipedrive for an early-stage startup,Pipedrive pricing plans 2026,True,
+gemini-4-neon,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot for startups discount 2026,True,
+gemini-4-neon,p03,2,HubSpot vs Pipedrive for an early-stage startup,"""HubSpot"" free tier user limit 2026",True,
+gemini-4-neon,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot pricing 2026,True,
+gemini-4-neon,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot for Startups discount 2026,True,
+gemini-4-neon,p03,2,HubSpot vs Pipedrive for an early-stage startup,Pipedrive pricing 2026,True,
+gemini-4-neon,p04,1,How do I get my website cited in ChatGPT answers?,OAI-SearchBot JavaScript rendering SSR,False,
+gemini-4-neon,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI web crawlers OAI-SearchBot GPTBot 2026,True,
+gemini-4-neon,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI documentation how to get cited in ChatGPT search,False,
+gemini-4-neon,p04,1,How do I get my website cited in ChatGPT answers?,how to get website cited in ChatGPT answers best practices,False,
+gemini-4-neon,p04,1,How do I get my website cited in ChatGPT answers?,does ChatGPT search use Bing index or Google 2026,True,
+gemini-4-neon,p04,2,How do I get my website cited in ChatGPT answers?,OpenAI crawlers OAI-SearchBot ChatGPT citations,False,
+gemini-4-neon,p04,2,How do I get my website cited in ChatGPT answers?,how to get cited in ChatGPT search 2025 2026,True,
+gemini-4-neon,p05,1,What is the best project management tool for a marketing agency?,best project management tool for marketing agency 2026,True,
+gemini-4-neon,p05,2,What is the best project management tool for a marketing agency?,best project management tools for marketing agencies 2026,True,
+gemini-4-neon,p05,2,What is the best project management tool for a marketing agency?,best project management tool marketing agency reddit 2025 2026,True,
+gemini-4-neon,p06,1,How much does a technical SEO audit cost?,technical SEO audit cost pricing 2025 2026,True,
+gemini-4-neon,p06,1,How much does a technical SEO audit cost?,how much does a technical SEO audit cost,False,
+gemini-4-neon,p06,2,How much does a technical SEO audit cost?,how much does a technical SEO audit cost,False,
+gemini-4-neon,p06,2,How much does a technical SEO audit cost?,technical SEO audit cost 2026,True,
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,"""FreshBooks"" pricing UK 2026 MTD",True,FreshBooks
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,FreeAgent QuickBooks Xero pricing UK 2026,True,FreeAgent|QuickBooks|Xero
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,"""Xero Simple"" plan pricing UK 2026",True,Xero
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,"""FreeAgent"" sole trader pricing UK 2026",True,FreeAgent
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,"""QuickBooks"" ""Sole Trader"" pricing UK 2026",True,QuickBooks
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,"""Sage Accounting Individual"" OR ""Sage Accounting Start"" pricing UK 2026",True,Sage
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,best accounting software freelancers UK 2026,True,
+gemini-4-neon,p07,1,Best accounting software for freelancers in the UK,Coconut accounting software UK 2026,True,
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,FreeAgent UK sole trader pricing 2026,True,FreeAgent
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,Xero UK pricing plans 2026,True,Xero
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,freeagent mettle natwest free 2026,True,FreeAgent
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,best accounting software for freelancers UK 2026,True,
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,MTD for ITSA 2026 compatible software freelancers UK,True,
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,QuickBooks Sole Trader UK pricing 2026,True,QuickBooks
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,Zoho Books UK free plan turnover limit 2026,True,Zoho|Zoho Books
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,FreshBooks UK MTD for Income Tax 2026,True,FreshBooks
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,Sage Individual UK pricing 2026,True,Sage
+gemini-4-neon,p07,2,Best accounting software for freelancers in the UK,Xero Simple plan UK features 2026,True,Xero
+gemini-4-neon,p08,1,Is Notion or Confluence better for an engineering wiki?,"""Notion"" vs ""Confluence"" mermaid diagrams code blocks verification engineering",False,
+gemini-4-neon,p08,1,Is Notion or Confluence better for an engineering wiki?,Notion vs Confluence engineering wiki 2025 2026,True,
+gemini-4-neon,p08,1,Is Notion or Confluence better for an engineering wiki?,Confluence new features vs Notion 2025 2026,True,
+gemini-4-neon,p08,2,Is Notion or Confluence better for an engineering wiki?,Confluence new features 2025 2026 engineering,True,
+gemini-4-neon,p08,2,Is Notion or Confluence better for an engineering wiki?,Notion vs Confluence engineering wiki 2025 2026,True,
+gemini-4-neon,p08,2,Is Notion or Confluence better for an engineering wiki?,Notion new features 2025 2026 wiki engineering,True,
+gemini-4-neon,p10,1,Best running shoes for flat feet,"""ASICS Gel-Kayano 33"" OR ""Brooks Adrenaline GTS 26"" OR ""Hoka Arahi 9""",False,Adrenaline|Arahi|Asics|Brooks|Gel-Kayano|Hoka|Kayano
+gemini-4-neon,p10,1,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-neon,p10,1,Best running shoes for flat feet,"""Saucony Guide 19"" OR ""New Balance 860v15"" OR ""ASICS GT-2000 15""",False,Asics|New Balance|Saucony
+gemini-4-neon,p10,1,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-neon,p10,2,Best running shoes for flat feet,best stability running shoes 2026,True,
+gemini-4-neon,p10,2,Best running shoes for flat feet,"""ASICS Gel-Kayano 33"" OR ""Brooks Adrenaline GTS 25"" OR ""HOKA Gaviota 6""",False,Adrenaline|Asics|Brooks|Gaviota|Gel-Kayano|Hoka|Kayano
+gemini-4-neon,p10,2,Best running shoes for flat feet,best running shoes for flat feet 2026,True,
+gemini-4-neon,p10,2,Best running shoes for flat feet,"""HOKA Gaviota 6"" OR ""New Balance Fresh Foam X 860v15"" review",False,Gaviota|Hoka|New Balance
+gemini-4-neon,p10,2,Best running shoes for flat feet,"""Saucony Hurricane 26"" OR ""Saucony Guide 19"" OR ""HOKA Arahi 9""",False,Arahi|Hoka|Saucony
+gemini-4-neon,p11,1,Best coffee shops to work from in Austin,"""Epoch Coffee"" Austin open OR closed 2026",True,
+gemini-4-neon,p11,1,Best coffee shops to work from in Austin,"""Bennu Coffee"" Austin 24 hours 2026",True,
+gemini-4-neon,p11,1,Best coffee shops to work from in Austin,best coffee shops to work from Austin Texas 2025 2026,True,
+gemini-4-neon,p11,1,Best coffee shops to work from in Austin,"""Flightpath Coffeehouse"" Austin 2026",True,
+gemini-4-neon,p11,1,Best coffee shops to work from in Austin,best remote work cafes Austin TX,False,
+gemini-4-neon,p11,1,Best coffee shops to work from in Austin,"""Mozart's Coffee"" Austin open OR closed 2026",True,
+gemini-4-neon,p11,2,Best coffee shops to work from in Austin,Bennu Coffee Austin 24 hours 2026,True,
+gemini-4-neon,p11,2,Best coffee shops to work from in Austin,Cosmic Coffee Austin remote work 2026,True,
+gemini-4-neon,p11,2,Best coffee shops to work from in Austin,best remote work cafes Austin Texas 2026,True,
+gemini-4-neon,p11,2,Best coffee shops to work from in Austin,best coffee shops to work from Austin 2025 2026,True,
+gemini-4-neon,p11,2,Best coffee shops to work from in Austin,Halcyon Austin closed OR open 2026,True,
+gemini-4-neon,p11,2,Best coffee shops to work from in Austin,Epoch Coffee Austin hours 2026,True,
+gemini-4-neon,p12,1,What is query fan-out in Google AI Mode?,query fan-out Google AI Mode,False,
+gemini-4-neon,p12,1,What is query fan-out in Google AI Mode?,Google AI Mode query fan-out explanation,False,
+gemini-4-neon,p12,2,What is query fan-out in Google AI Mode?,query fan-out Google AI Mode,False,
+gemini-4-neon,p12,2,What is query fan-out in Google AI Mode?,Google AI Mode query fan out technique,False,
+gpt-6.2-sol,p01,1,What is the best CRM for a 10-person B2B sales team?,site:pipedrive.com pricing Growth Premium annual USD 39 59 Pipedrive CRM,False,Pipedrive
+gpt-6.2-sol,p01,1,What is the best CRM for a 10-person B2B sales team?,site:hubspot.com sales hub pricing starter professional 100 90 per seat annual HubSpot,False,HubSpot
+gpt-6.2-sol,p01,1,What is the best CRM for a 10-person B2B sales team?,site:zoho.com crm pricing standard professional 14 23 USD annual Zoho CRM,False,Zoho
+gpt-6.2-sol,p01,2,What is the best CRM for a 10-person B2B sales team?,site:pipedrive.com pricing Growth Premium $39 $59 annual Pipedrive CRM US,False,Pipedrive
+gpt-6.2-sol,p01,2,What is the best CRM for a 10-person B2B sales team?,site:hubspot.com pricing sales hub starter professional $90 seat US annual,False,HubSpot
+gpt-6.2-sol,p01,2,What is the best CRM for a 10-person B2B sales team?,site:zoho.com crm pricing standard professional $14 $23 annual US Zoho CRM,False,Zoho
+gpt-6.2-sol,p01,2,What is the best CRM for a 10-person B2B sales team?,site:hubspot.com/products/sales HubSpot Sales Hub Professional starts at $100 per seat Starter sequences pricing,False,HubSpot
+gpt-6.2-sol,p02,1,Best email marketing platform for a Shopify store,Shopify Messaging email pricing 10000 emails official Shopify Email 2026,True,Shopify Email
+gpt-6.2-sol,p02,1,Best email marketing platform for a Shopify store,Klaviyo Shopify email marketing pricing 250 profiles 500 emails official Shopify integration,False,Klaviyo
+gpt-6.2-sol,p02,1,Best email marketing platform for a Shopify store,Omnisend Shopify email marketing pricing free 250 500 official Shopify email SMS,False,Omnisend
+gpt-6.2-sol,p02,1,Best email marketing platform for a Shopify store,site:klaviyo.com pricing email starts $20 500 Klaviyo Shopify segmentation predictive analytics,False,Klaviyo
+gpt-6.2-sol,p02,1,Best email marketing platform for a Shopify store,site:omnisend.com pricing standard $16 500 Omnisend email 6000,False,Omnisend
+gpt-6.2-sol,p02,2,Best email marketing platform for a Shopify store,Shopify Messaging Shopify Email 10000 free emails per month official Shopify pricing email marketing,False,Shopify Email
+gpt-6.2-sol,p02,2,Best email marketing platform for a Shopify store,Klaviyo official pricing free 250 profiles 500 emails Shopify integration segmentation email,False,Klaviyo
+gpt-6.2-sol,p02,2,Best email marketing platform for a Shopify store,Omnisend official pricing free 250 contacts 500 emails Shopify app email automation pricing,False,Omnisend
+gpt-6.2-sol,p03,1,HubSpot vs Pipedrive for an early-stage startup,site:hubspot.com sales hub pricing free 2 users starter professional sequences 2026 HubSpot startup pricing,True,
+gpt-6.2-sol,p03,1,HubSpot vs Pipedrive for an early-stage startup,site:pipedrive.com pricing Lite Growth Premium Ultimate $14 $39 annual CRM email sync 2026,True,
+gpt-6.2-sol,p03,1,HubSpot vs Pipedrive for an early-stage startup,Pipedrive Growth Lite pricing $39 $14 email sync sequences site:pipedrive.com/en,False,
+gpt-6.2-sol,p03,1,HubSpot vs Pipedrive for an early-stage startup,HubSpot for startups eligibility discounts site:hubspot.com/startups pricing,False,
+gpt-6.2-sol,p03,2,HubSpot vs Pipedrive for an early-stage startup,site:hubspot.com pricing sales hub free starter professional monthly sales hub HubSpot official,False,
+gpt-6.2-sol,p03,2,HubSpot vs Pipedrive for an early-stage startup,site:pipedrive.com pricing Lite Growth Premium annual Pipedrive official,False,
+gpt-6.2-sol,p03,2,HubSpot vs Pipedrive for an early-stage startup,site:hubspot.com startups pricing eligibility discounts HubSpot for Startups official,False,
+gpt-6.2-sol,p03,2,HubSpot vs Pipedrive for an early-stage startup,site:hubspot.com/startups pricing 90 discount year HubSpot startup startup pricing eligibility,False,
+gpt-6.2-sol,p03,2,HubSpot vs Pipedrive for an early-stage startup,site:hubspot.com free CRM up to two users 1000 contacts HubSpot free CRM,False,
+gpt-6.2-sol,p03,2,HubSpot vs Pipedrive for an early-stage startup,HubSpot for startups up to 90% off hubspot.com/startups,False,
+gpt-6.2-sol,p04,1,How do I get my website cited in ChatGPT answers?,ChatGPT search publishers FAQ OAI-SearchBot get website included citations no guarantee ranking utm_source chatgpt.com,False,
+gpt-6.2-sol,p04,1,How do I get my website cited in ChatGPT answers?,OpenAI crawlers OAI-SearchBot GPTBot robots.txt IP ranges ChatGPT search,False,
+gpt-6.2-sol,p04,2,How do I get my website cited in ChatGPT answers?,site:openai.com ChatGPT search publishers FAQ OAI-SearchBot cited website ranking referral utm_source,False,
+gpt-6.2-sol,p04,2,How do I get my website cited in ChatGPT answers?,site:openai.com OAI-SearchBot robots.txt OpenAI bots ChatGPT search website indexing,False,
+gpt-6.2-sol,p05,1,What is the best project management tool for a marketing agency?,site:asana.com marketing agency campaign management Asana forms approvals proofing pricing Advanced Starter,False,Asana
+gpt-6.2-sol,p05,1,What is the best project management tool for a marketing agency?,site:teamwork.com agency project management pricing time tracking budgets profitability client work,False,Teamwork
+gpt-6.2-sol,p05,1,What is the best project management tool for a marketing agency?,site:monday.com marketing project management campaign creative requests pricing monday work management,False,Monday|Monday.com|monday
+gpt-6.2-sol,p05,1,What is the best project management tool for a marketing agency?,site:clickup.com marketing agency project management pricing proofing time tracking,False,ClickUp
+gpt-6.2-sol,p05,2,What is the best project management tool for a marketing agency?,Asana official pricing marketing teams approvals proofing forms portfolios advanced starter 2026,True,Asana
+gpt-6.2-sol,p05,2,What is the best project management tool for a marketing agency?,Teamwork official pricing agency client work time tracking budgets profitability,False,Teamwork
+gpt-6.2-sol,p05,2,What is the best project management tool for a marketing agency?,monday work management official pricing marketing agency dashboards automations boards proofing,False,Monday|monday
+gpt-6.2-sol,p06,1,How much does a technical SEO audit cost?,technical SEO audit pricing US standalone small business $1000 $5000 agency published technical audit pricing,False,
+gpt-6.2-sol,p06,1,How much does a technical SEO audit cost?,technical SEO audit cost standalone technical SEO audit pricing ecommerce US agency published starts $2500 $10000,False,
+gpt-6.2-sol,p06,2,How much does a technical SEO audit cost?,technical SEO audit pricing $1500 $5000 technical SEO audit agency published pricing ecommerce enterprise US,False,
+gpt-6.2-sol,p06,2,How much does a technical SEO audit cost?,technical SEO audit cost published pricing consultant technical audit $1000 $2500 $10000 US technical SEO audit,False,
+gpt-6.2-sol,p06,2,How much does a technical SEO audit cost?,"site:vizion.com technical SEO audit $11,250 Vizion pricing",False,
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,FreeAgent UK sole trader pricing free NatWest Mettle 2026,True,FreeAgent
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,QuickBooks UK Sole Trader pricing Sole Trader Plus Intuit UK,False,QuickBooks
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,Xero UK Simple Ignite pricing sole trader MTD 2026,True,Xero
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,site:gov.uk making tax digital income tax April 2026 2027 2028 thresholds compatible software,True,
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,site:freeagent.com pricing sole trader £19 free bank Mettle FreeAgent,False,FreeAgent
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,site:mettle.co.uk freeagent one transaction month,False,FreeAgent
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,site:clearbooks.co.uk sole trader free bank feeds £5 MTD,False,
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,site:gov.uk find software compatible making tax digital income tax,False,
+gpt-6.2-sol,p07,1,Best accounting software for freelancers in the UK,site:freeagent.com sole trader accounting self assessment time tracking £19 MTD,False,FreeAgent
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,UK freelancer accounting FreeAgent pricing sole trader £19 NatWest Mettle FreeAgent official,False,FreeAgent
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,UK sole trader accounting Xero Simple pricing UK £ QuickBooks Sole Trader pricing official,False,QuickBooks|Xero
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,UK Zoho Books free plan £35000 sole trader UK official pricing,False,Zoho|Zoho Books
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,gov.uk making tax digital income tax April 2026 50000 2027 30000 2028 20000 compatible software,True,
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,site:freeagent.com pricing sole trader £19 free Mettle one transaction FreeAgent,False,FreeAgent
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,site:xero.com/uk/pricing-plans Xero Simple Ignite £18 UK 20 invoices,False,Xero
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,site:sage.com/en-gb sole trader Sage Individual free MTD £7,False,Sage
+gpt-6.2-sol,p07,2,Best accounting software for freelancers in the UK,site:gov.uk find software Making Tax Digital Income Tax FreeAgent Sage Zoho Xero final tax return choose,False,FreeAgent|Sage|Xero|Zoho
+gpt-6.2-sol,p08,1,Is Notion or Confluence better for an engineering wiki?,site:atlassian.com Confluence Jira integration engineering documentation page ownership content manager restrictions,False,Jira
+gpt-6.2-sol,p08,1,Is Notion or Confluence better for an engineering wiki?,site:notion.com help wiki verified pages owners Notion Jira integration synced databases permissions,False,Jira
+gpt-6.2-sol,p08,1,Is Notion or Confluence better for an engineering wiki?,site:support.atlassian.com/confluence-cloud Confluence Cloud space permissions page restrictions content manager archive transfer ownership Jira work items macro,False,Jira
+gpt-6.2-sol,p08,2,Is Notion or Confluence better for an engineering wiki?,site:atlassian.com Confluence engineering wiki Jira integration spaces permissions templates decisions ADR,False,Jira
+gpt-6.2-sol,p08,2,Is Notion or Confluence better for an engineering wiki?,site:notion.com help wiki verified pages owner Notion GitHub Jira synced databases permissions,False,Jira
+gpt-6.2-sol,p08,2,Is Notion or Confluence better for an engineering wiki?,site:support.atlassian.com/confluence-cloud/docs confluence cloud space permissions page restrictions,False,
+gpt-6.2-sol,p09,1,How to reduce churn in a B2B SaaS product,Stripe SaaS churn customer revenue churn gross revenue retention failed payments smart retries documentation,False,
+gpt-6.2-sol,p09,1,How to reduce churn in a B2B SaaS product,Amplitude retention analysis cohorts activation product analytics official documentation SaaS retention,False,Amplitude
+gpt-6.2-sol,p09,2,How to reduce churn in a B2B SaaS product,ChartMogul SaaS retention report gross revenue retention net revenue retention cohort SaaS churn,False,ChartMogul
+gpt-6.2-sol,p09,2,How to reduce churn in a B2B SaaS product,Amplitude product analytics retention B2B account activation cohort onboarding retention official,False,Amplitude
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,best running shoes flat feet November 2026 Brooks Adrenaline GTS 26 ASICS Kayano 33 Hoka Arahi 8 Saucony Guide 19 official,True,Adrenaline|Arahi|Asics|Brooks|Hoka|Kayano|Saucony
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:brooksrunning.com adrenal​ine GTS 26 Adrenaline GTS 27,False,Adrenaline
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:asics.com US GEL KAYANO 33 GEL KAYANO 32 stability,False,Asics|Kayano
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:saucony.com guide 19 stability site:hoka.com Arahi 8,False,Arahi|Hoka|Saucony
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:brooksrunning.com/en_us Adrenaline GTS 26 155,False,Adrenaline
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:asics.com/us/en-us gel-kayano 33 gt-1000 15,False,Asics|Gel-Kayano|Kayano
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:hoka.com/en/us arahi 9,False,Arahi|Hoka
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,site:saucony.com/en guide 19 wide,False,Saucony
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,HOKA Arahi 9 Hoka official $ lightweight 9,False,Arahi|Hoka
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,Saucony Guide 19 official saucony $150 wide,False,Saucony
+gpt-6.2-sol,p10,1,Best running shoes for flat feet,flat feet no symptoms treatment AAOS NHS flat feet shoe running fit thumb toe,False,
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,best stability running shoes flat feet 2026 Brooks Adrenaline GTS 26 ASICS Kayano 33 Saucony Guide 19 official,True,Adrenaline|Asics|Brooks|Kayano|Saucony
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,site:brooksrunning.com Adrenaline GTS 26 running shoe price wide,False,Adrenaline
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,site:asics.com us GEL KAYANO 33 GT 2000 14 2026 running shoes,True,Asics|Kayano
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,flat feet running shoes stability not necessary asymptomatic sports medicine flat feet pronation running shoe injury Cochrane,False,
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,Adrenaline GTS 26 men's $155 Brooks official,False,Adrenaline|Brooks
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,GEL-KAYANO 33 GT-1000 15 US price,False,Gel-Kayano|Kayano
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,Guide 19 price wide US Saucony,False,Saucony
+gpt-6.2-sol,p10,2,Best running shoes for flat feet,flat feet no treatment if no pain NHS flat feet,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,best Austin coffee shops work remotely wifi outlets 2026 Austin Epoch Bennu Radio Spokesman Flightpath Lazarus,True,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Austin coffee shops remote work wifi outlets 2026 Austin Texas coffee shops work laptop Merit Civil Goat Houndstooth,True,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Bennu Coffee official locations 24 7 wifi 2001 east MLK,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Flightpath coffeehouse official 5011 Duval hours Austin,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Carpenter Coffee Bar Austin official hours 400 Josephine,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Radio coffee beer official 4204 Menchaca Austin Mozart coffee official 3825 Lake Austin,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Carpenter Hotel coffee bar 400 Josephine site:carpenterhotel.com,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Flightpath Coffeehouse 5011 Duval flightpathcoffeehouse official Austin,False,
+gpt-6.2-sol,p11,1,Best coffee shops to work from in Austin,Sa Ten Springdale 916 Austin official coffee cafe,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,best Austin coffee shops work remotely laptop wifi outlets Austin 2026 Radio Cosmic Cherrywood Epoch Flightpath Austin,True,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Austin coffee shops work laptop spacious wifi Civil Goat Better Half Houndstooth downtown Austin 2026,True,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Austin best coffee shops work remote 2026 Austin library coffee Merit downtown Flightpath Brentwood Bennu 24 hours,True,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Flightpath Coffeehouse Austin official 5011 Duval Bennu Coffee official Austin 1701 MLK wifi,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Carpenter Coffee Bar Austin official 400 Josephine Cosmic Pickle official 121 Pickle,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Radio Coffee Beer South official 4204 Menchaca Halcyon Austin downtown official 218 W 4th laptop,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Capital One Cafe Domain Austin official 11801 Domain wifi Austin central library official study rooms,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,Carpenter Coffee Bar site:carpenterhotel.com,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,site:capitalone.com local cafe domain austin,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,site:thehalcyon.com Austin downtown Halcyon coffee 218,False,
+gpt-6.2-sol,p11,2,Best coffee shops to work from in Austin,site:library.austintexas.gov central library study room Austin wi-fi 710,False,
+gpt-6.2-sol,p12,1,What is query fan-out in Google AI Mode?,site:google.com Google AI Mode query fan-out technique subtopics search official Google,False,
+gpt-6.2-sol,p12,2,What is query fan-out in Google AI Mode?,site:blog.google Google AI Mode query fan-out technique subtopics data sources parallel,False,
+gpt-6.2-sol,p12,2,What is query fan-out in Google AI Mode?,site:developers.google.com Google AI Mode query fan-out technique,False,
